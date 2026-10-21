@@ -4,6 +4,8 @@
 
 Préparation commune : [règles](../../campagne/Regles.md), [mission](../../campagne/Mission.md) et [indices](../../indices/Indices.md). Les références à des numéros de chapitre dans le texte correspondent au [sommaire](../../campagne/README.md).
 
+[Cartes conseillées et adaptations](Cartes.md).
+
 **Lieux :** sentier, chêne monumental, fossé, clairière de racines. **Fragment :** coincé dans l’écorce du chêne.
 
 **Accroche.** Une branche barre la route. Une pancarte indique : « Péage : 2 pièces par bipède. Supplément capuche mystérieuse. » Un écureuil emporte une botte sous vos yeux.

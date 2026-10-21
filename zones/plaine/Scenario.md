@@ -4,6 +4,8 @@
 
 Préparation commune : [règles](../../campagne/Regles.md), [mission](../../campagne/Mission.md) et [indices](../../indices/Indices.md). Les références à des numéros de chapitre dans le texte correspondent au [sommaire](../../campagne/README.md).
 
+[Cartes conseillées et adaptations](Cartes.md).
+
 **Lieux :** champs, route, chariot à blé, moulin au loin. **Fragment :** bouton brillant sur la veste de Paille-au-Nez.
 
 **Accroche.** Un chariot avance au milieu des champs, tiré par trois épouvantails. Une banderole annonce : « Nous ne travaillerons plus pour des prunes. Ni pour du blé. »

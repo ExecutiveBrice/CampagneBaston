@@ -4,6 +4,8 @@
 
 Préparation commune : [règles](../../campagne/Regles.md), [mission](../../campagne/Mission.md) et [indices](../../indices/Indices.md). Les références à des numéros de chapitre dans le texte correspondent au [sommaire](../../campagne/README.md).
 
+[Cartes conseillées et adaptations](Cartes.md).
+
 **Lieux :** dunes, oasis sur patins, tente, lampe montée sur un charriot. **Fragment :** dans le bouchon de la lampe.
 
 **Accroche.** Une oasis glisse lentement sur le sable. Un génie apparaît : « Bienvenue chez Souhaits & Services ! Votre premier verre d’eau est offert. Le second confirme votre engagement. »

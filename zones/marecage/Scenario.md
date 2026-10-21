@@ -4,6 +4,8 @@
 
 Préparation commune : [règles](../../campagne/Regles.md), [mission](../../campagne/Mission.md) et [indices](../../indices/Indices.md). Les références à des numéros de chapitre dans le texte correspondent au [sommaire](../../campagne/README.md).
 
+[Cartes conseillées et adaptations](Cartes.md).
+
 **Lieux :** pontons, îlot, souche-palais, ancien panneau de gué. **Fragment :** serti dans la couronne de la princesse.
 
 **Accroche.** Une grenouille couronnée vous interpelle : « Enfin ! Des gens avec des pouces ! Mon trône est occupé par un monstre sans aucune éducation. »

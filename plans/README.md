@@ -1,5 +1,7 @@
 # Cartes et plans
 
+La [sélection de cartes pour les huit scénarios](SELECTION.md) regroupe les liens, les alternatives et les conseils de préparation. Chaque zone possède aussi un fichier `Cartes.md` accessible depuis son scénario.
+
 Aucun fichier de carte ou de plan n’est inclus dans l’import initial. Le livret mentionne une carte déjà utilisée dans la préparation ; son image doit être ajoutée séparément.
 
 ## Classement proposé à l’ajout des ressources

@@ -4,6 +4,8 @@
 
 Préparation commune : [règles](../../campagne/Regles.md), [mission](../../campagne/Mission.md) et [indices](../../indices/Indices.md). Les références à des numéros de chapitre dans le texte correspondent au [sommaire](../../campagne/README.md).
 
+[Cartes conseillées et adaptations](Cartes.md).
+
 **Lieux :** col, corniche, grotte, dépôt de provisions. **Fragment :** dans la narine du jeune dragon.
 
 **Accroche.** Un souffle brûlant transforme le sandwich d’un voyageur en charbon. Du fond de la grotte : « Dédolé ! Faut pas approcher avec du boivre ! »

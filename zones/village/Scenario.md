@@ -4,6 +4,8 @@
 
 Préparation commune : [règles](../../campagne/Regles.md), [mission](../../campagne/Mission.md) et [indices](../../indices/Indices.md). Les références à des numéros de chapitre dans le texte correspondent au [sommaire](../../campagne/README.md).
 
+[Cartes conseillées et adaptations](Cartes.md).
+
 **Lieux :** place, auberge, poulailler, vieille grange. **Fragment :** sous la paille du nid de Gertrude, dans la grange. Utilise ces repères s’ils figurent sur ton plan ; inutile de modifier la carte.
 
 **Accroche.** Une poule perchée sur une brouette hurle : « Pas de grain, pas d’omelette ! » Le maire souhaite régler la grève avant le concours de quiches.

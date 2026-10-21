@@ -1,5 +1,14 @@
 # Historique de la campagne
 
+## 2026-10-21 — Recherche de cartes adaptées aux scénarios
+
+- Sélection de huit cartes principales et d’une ferme complémentaire, avec liens vers les créateurs.
+- Ajout de `Cartes.md` dans chacune des huit zones et liens depuis les scénarios.
+- Ajout de `plans/SELECTION.md`, mise à jour de l’index des plans et du registre des sources.
+- Indication des accès gratuits/prix libre, des conditions connues et des adaptations proposées pour chaque scène.
+- Aucun fichier image importé ; téléchargement complet et choix définitif des variantes restant à faire.
+- Scénarios, règles et progression des indices 8 → 4 → 1 conservés.
+
 ## 2026-10-21 — Import initial et classement par zone
 
 - Répartition du contenu existant dans les huit dossiers de `zones/`.
