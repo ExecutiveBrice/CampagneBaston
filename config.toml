@@ -1,0 +1,50 @@
+# Campagne française ; réglages modifiables depuis l'interface.
+language = "fr"
+
+[llm]
+backend = "ollama"
+model = "qwen2.5:7b-instruct"
+num_ctx = 8192
+
+[stt]
+language = "fr"
+
+[tts]
+backend = "pocket"
+model = "french"
+voice = "estelle"
+
+[tts.voices]
+"commun/commun-01" = "jean"
+"desert/desert-01" = "marius"
+"desert/desert-02" = "estelle"
+"desert/desert-03" = "jean"
+"desert/desert-04" = "javert"
+"foret/foret-01" = "javert"
+"foret/foret-02" = "jean"
+"foret/foret-03" = "anna"
+"foret/foret-04" = "marius"
+"grande-ville/ville-01" = "javert"
+"grande-ville/ville-02" = "jean"
+"grande-ville/ville-03" = "anna"
+"grande-ville/ville-04" = "estelle"
+"marecage/marais-01" = "anna"
+"marecage/marais-02" = "javert"
+"marecage/marais-03" = "anna"
+"marecage/marais-04" = "marius"
+"montagne/montagne-01" = "marius"
+"montagne/montagne-02" = "anna"
+"montagne/montagne-03" = "jean"
+"montagne/montagne-04" = "estelle"
+"plage/plage-01" = "javert"
+"plage/plage-02" = "jean"
+"plage/plage-03" = "estelle"
+"plage/plage-04" = "marius"
+"plaine/plaine-01" = "marius"
+"plaine/plaine-02" = "javert"
+"plaine/plaine-03" = "jean"
+"plaine/plaine-04" = "anna"
+"village/village-01" = "anna"
+"village/village-02" = "jean"
+"village/village-03" = "estelle"
+"village/village-04" = "marius"

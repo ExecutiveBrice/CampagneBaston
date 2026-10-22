@@ -2,7 +2,7 @@
 
 [Zones](../README.md) · [Scénario](Scenario.md) · [PNJ](PNJ.md) · [Monstres](Monstres.md) · [Objets](Objets.md)
 
-Lire les [règles communes](../../campagne/Regles.md) et la légende du [bestiaire général](../../commun/Monstres.md) avant d’utiliser les valeurs.
+Lire les [règles communes](../../campagne/Regles.md) et la légende du [bestiaire général](../commun/Monstres.md) avant d’utiliser les valeurs.
 
 *Fiches maison CO Fantasy 2. Effectifs : 4–5 joueurs / 6–8 joueurs. Choisir au plus une opposition ; les autres créatures restent facultatives. Une bande ou une nuée est un seul profil collectif.*
 

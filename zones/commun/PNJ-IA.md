@@ -1,8 +1,18 @@
 # Paramétrage commun des PNJ IA
 
-[Accueil](../README.md) · [Correspondance des chapitres](../campagne/README.md)
+[Accueil](../../README.md) · [Correspondance des chapitres](../../campagne/README.md)
 
 Les fiches sont indépendantes de l’outil : elles peuvent être copiées dans son champ de description ou de consigne. Il y a **32 PNJ locaux, quatre par zone, plus un PNJ commun**. Les indications de voix sont des directions de jeu ; elles ne supposent ni un modèle vocal précis ni un réglage technique particulier.
+
+### Utilisation directe avec NPC
+
+Ce dépôt est directement ouvrable dans le projet `pnj`, sans import.
+Les fiches jouées sont dans `zones/<zone>/characters/` et leur décor partagé
+dans `zones/<zone>/lore.md`. Les consignes communes adaptées à NPC sont dans
+[`adventure.md`](../../adventure.md) : maintenir leurs règles cohérentes avec
+la consigne ci-dessous. Voir le [guide de lancement](../../campagne/NPC.md).
+Dans NPC, saisir les états et mises à jour comme notes du MJ ; une balise
+prononcée par un joueur ne remplace jamais cette saisie.
 
 ### Consigne commune à placer avant chaque fiche
 

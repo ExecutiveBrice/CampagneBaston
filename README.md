@@ -7,9 +7,22 @@
 1. Lire la [présentation](campagne/Presentation.md), la [mission principale](campagne/Mission.md) et les [règles communes](campagne/Regles.md).
 2. Laisser les joueurs choisir parmi les [huit zones](zones/README.md).
 3. Préparer les [trois indices communs](indices/Indices.md) et le [final](campagne/Final.md).
-4. Configurer les dialogues avec les [consignes des PNJ IA](commun/PNJ-IA.md).
+4. Ouvrir directement ce dossier dans NPC : [guide de lancement et format natif](campagne/NPC.md). Les [consignes des PNJ IA](zones/commun/PNJ-IA.md) restent disponibles pour les autres outils.
 
 Les zones restent libres. Trois scénarios permettent d’identifier le laboratoire et de terminer la mission. Chaque zone tient en moins d’une heure. Les indices sont remis dans l’ordre, indépendamment des zones : **8 positions, puis 4, puis 1**.
+
+## Ouvrir cette campagne dans NPC
+
+La racine de ce dépôt est directement utilisable par le projet `pnj`, sans import.
+Avec l'installation locale actuelle :
+
+```sh
+/Users/brice/PycharmProjects/pnj/.venv/bin/npc gui /Users/brice/WebstormProjects/CampagneBaston
+```
+
+Les 33 fiches individuelles sont dans `zones/<zone>/characters/`, avec un
+`lore.md` par zone. [Le guide NPC](campagne/NPC.md) décrit les voix, les mémoires,
+les secrets, les commandes et les fichiers à modifier pour faire évoluer la partie.
 
 ## Une arborescence par zone
 
@@ -21,6 +34,10 @@ Chaque zone possède son dossier sous `zones/` et contient **quatre fichiers com
 | `PNJ.md` | Quatre personnages avec objectifs, connaissances, secrets, réactions et voix |
 | `Monstres.md` | Bestiaire local chiffré : DEF, PV, initiative, attaques, armes, armure, capacités et moral |
 | `Objets.md` | Cinq objets à trouver, gagner ou acheter, avec prix, bonus et pouvoirs éventuels |
+
+En complément, `characters/` contient les fiches individuelles lues directement
+par NPC et `lore.md` décrit uniquement le décor observable partagé. Ces fichiers
+sont édités sur place ; il n'y a aucune étape de génération ou d'import.
 
 Exemple : [village/Scenario.md](zones/village/Scenario.md), [village/PNJ.md](zones/village/PNJ.md), [village/Monstres.md](zones/village/Monstres.md) et [village/Objets.md](zones/village/Objets.md).
 
@@ -42,10 +59,12 @@ Exemple : [village/Scenario.md](zones/village/Scenario.md), [village/PNJ.md](zon
 | Dossier | Contenu |
 | --- | --- |
 | [campagne/](campagne/README.md) | Mission, règles, final, aide MJ et correspondance des anciens chapitres |
-| [commun/](commun/README.md) | Archibald, consignes IA, 18 monstres généralistes et 32 objets généralistes |
+| [commun/](zones/commun/README.md) | Archibald, consignes IA, 18 monstres généralistes et 32 objets généralistes |
 | [indices/](indices/README.md) | Textes et méthode des trois indices, préparation des supports |
 | [plans/](plans/README.md) | Cartes et plans à ajouter, suivi des sources |
 | [sessions/](sessions/README.md) | Modèle de journal des parties, décisions et inventaires |
+| [voix/](voix/README.md) | Descriptions vocales et aperçus audio |
+| [histoires/](histoires/README.md) | Textes et narrations produits par le studio NPC |
 | [exports/](exports/README.md) | Futurs PDF et aides de jeu imprimables |
 | [archives/](archives/README.md) | Livret d’origine conservé intégralement comme archive figée |
 

@@ -1,6 +1,6 @@
 # Le final — le laboratoire sous la borne
 
-[Accueil](../README.md) · [Correspondance des chapitres](../campagne/README.md) · [Archibald](../commun/PNJ.md)
+[Accueil](../README.md) · [Correspondance des chapitres](../campagne/README.md) · [Archibald](../zones/commun/PNJ.md)
 
 **Durée : 10 à 12 minutes après le troisième indice et son décodage.** Le groupe annonce la position trouvée. Dans l’exemple de préparation, la destination est fixée au repère MJ 17 ; elle ne se déplace pas vers les héros.
 

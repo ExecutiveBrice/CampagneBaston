@@ -1,6 +1,6 @@
 # Bestiaire général pour les rencontres libres
 
-[Accueil](../README.md) · [Correspondance des chapitres](../campagne/README.md)
+[Accueil](../../README.md) · [Correspondance des chapitres](../../campagne/README.md)
 
 Ces **18 profils** sont indépendants des huit scénarios. Le MJ les place manuellement sur une route, dans un campement, une ruine ou une zone déjà visitée. Ils servent à improviser une opposition, une négociation, une entraide ou une diversion ; leur présence n’impose pas un combat.
 

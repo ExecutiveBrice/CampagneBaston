@@ -1,0 +1,10 @@
+text = """
+Approchez, voyageurs. Vous cherchez la tour oubliée ?
+Alors écoutez bien… personne n’en est revenu depuis le dernier hiver.
+"""
+instruct = """
+Voix masculine adulte, grave et légèrement rocailleuse.
+Français de France, articulation claire, débit posé.
+Ton chaleureux de conteur, avec une légère malice et une émotion contenue.
+"""
+language = "French"

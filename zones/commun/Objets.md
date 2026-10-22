@@ -1,6 +1,6 @@
 # Réserve d’objets généralistes et fiches de bonus
 
-[Accueil](../README.md) · [Correspondance des chapitres](../campagne/README.md)
+[Accueil](../../README.md) · [Correspondance des chapitres](../../campagne/README.md)
 
 Ces **32 objets** sont indépendants des scénarios : les 24 références précédentes sont précisées et 8 variantes d’armes, armures et accessoires complètent la réserve. Le MJ les place manuellement dans un coffre, une boutique ou une récompense. Les **40 objets de zone**, OBJ-01 à OBJ-40, utilisent la même distinction entre bonus, pouvoir et usage ordinaire. Aucun n’est nécessaire pour obtenir un indice de mission.
 

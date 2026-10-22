@@ -3,8 +3,9 @@
 ## Source et périmètre
 
 - Lire le README, le sommaire de `campagne/` et les fichiers concernés avant une modification.
-- Sources éditoriales canoniques : les quatre fichiers `Scenario.md`, `PNJ.md`, `Monstres.md`, `Objets.md` de chaque dossier `zones/<zone>/`, ainsi que les fichiers de `campagne/`, `commun/` et `indices/`. Modifier le fichier correspondant au sujet.
+- Sources éditoriales canoniques : les quatre fichiers `Scenario.md`, `PNJ.md`, `Monstres.md`, `Objets.md` de chaque dossier `zones/<zone>/`, ainsi que les fichiers de `campagne/`, `zones/commun` et `indices/`. Modifier le fichier correspondant au sujet.
 - `archives/La_Compagnie_des_Huit_Catastrophes.md` est l’original figé de l’import initial : ne pas le mettre à jour avec les évolutions. Aucun livret consolidé automatiquement n’est fourni.
+- Le dépôt est une campagne native NPC : `config.toml`, `adventure.md`, `zones/<zone>/characters/*.md`, `lore.md` et les éventuels secrets sont lus directement. Modifier ces fichiers sur place, sans étape d’import. Maintenir les fiches jouées cohérentes avec `PNJ.md`, les effets associés avec `Objets.md`, et les règles de `adventure.md` avec `zones/commun/PNJ-IA.md`. Les scénarios complets, les autres fiches et les solutions du MJ restent hors du lore.
 - Chaque zone doit conserver ses quatre fichiers complets ; les catégories PNJ, Monstres et Objets ne sont pas de simples liens vers le scénario. Les règles et ressources généralistes sont partagées dans les dossiers communs.
 - Les journaux dans `sessions/` décrivent une partie particulière ; ils ne changent pas automatiquement le scénario de référence.
 - Garder les identifiants des PNJ, des objets OBJ/GEN et des rencontres REN stables. Si un titre change, réparer ses liens dans les index.

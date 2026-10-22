@@ -1,0 +1,11 @@
+
+# Données créées pendant les sessions NPC ; les journaux éditoriaux restent suivis.
+zones/*/logbooks/
+sessions/*-transcript.md
+voice_studio/
+
+# Créations vocales et histoires du studio NPC.
+/voix/*.wav
+/voix/*.tmp
+/histoires/*
+!/histoires/README.md

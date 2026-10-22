@@ -1,0 +1,10 @@
+text = """
+Approchez, petits moutons, j'ai très faim!
+Alors écoutez bien… si vous partager mon repas vous serez bien au chaud pour le reste de l'hiver.
+"""
+instruct = """
+Voix de Troll adulte, grave et très rocailleuse.
+Français du Canada, articulation hasardeuse, débit posé.
+Ton dur et hostile, avec une légère malice et gourmandise.
+"""
+language = "French"
