@@ -1,6 +1,6 @@
 # CampagneBaston — La Compagnie des Huit Catastrophes
 
-**Le Médaillon de l’Omnipotence Approximative** : une campagne originale de fantasy comique pour **4 à 8 adolescents**, avec des profils maison pour **Chroniques Oubliées Fantasy 2**.
+**À la recherche du laboratoire introuvable** : une campagne originale de fantasy comique pour **4 à 8 adolescents**, avec des profils maison pour **Chroniques Oubliées Fantasy 2**.
 
 ## Jouer et préparer
 
@@ -9,7 +9,7 @@
 3. Préparer les [trois indices communs](indices/Indices.md) et le [final](campagne/Final.md).
 4. Ouvrir directement ce dossier dans NPC : [guide de lancement et format natif](campagne/NPC.md). Les [consignes des PNJ IA](zones/commun/PNJ-IA.md) restent disponibles pour les autres outils.
 
-Les zones restent libres. Trois scénarios permettent d’identifier le laboratoire et de terminer la mission. Chaque zone tient en moins d’une heure. Les indices sont remis dans l’ordre, indépendamment des zones : **8 positions, puis 4, puis 1**.
+Les zones restent libres. Retrouver le laboratoire d’Archibald Malépine constitue la quête principale : trois scénarios permettent de réunir les trois indices et de terminer la mission. Le mage aide les joueurs à choisir leurs destinations et à lire les supports. Chaque zone tient en moins d’une heure. Les indices sont remis dans l’ordre, indépendamment des zones : **8 positions, puis 4, puis 1**.
 
 ## Ouvrir cette campagne dans NPC
 
@@ -45,14 +45,14 @@ Exemple : [village/Scenario.md](zones/village/Scenario.md), [village/PNJ.md](zon
 
 | Zone | Dossier |
 | --- | --- |
-| Grande ville | [zones/grande-ville](zones/grande-ville/Scenario.md) |
-| Village | [zones/village](zones/village/Scenario.md) |
-| Forêt | [zones/foret](zones/foret/Scenario.md) |
-| Marécage | [zones/marecage](zones/marecage/Scenario.md) |
-| Montagne | [zones/montagne](zones/montagne/Scenario.md) |
-| Plaine | [zones/plaine](zones/plaine/Scenario.md) |
-| Désert | [zones/desert](zones/desert/Scenario.md) |
-| Plage | [zones/plage](zones/plage/Scenario.md) |
+| Grande ville — Valombre | [zones/grande-ville](zones/grande-ville/Scenario.md) |
+| Village — Tilverton | [zones/village](zones/village/Scenario.md) |
+| Forêt — Cormanthor | [zones/foret](zones/foret/Scenario.md) |
+| Marécage — le Grand Marais | [zones/marecage](zones/marecage/Scenario.md) |
+| Montagne — l’Échine du Dragon | [zones/montagne](zones/montagne/Scenario.md) |
+| Plaine — la Sembie | [zones/plaine](zones/plaine/Scenario.md) |
+| Désert — l’Anauroch | [zones/desert](zones/desert/Scenario.md) |
+| Plage — la côte de la Mer de Lune | [zones/plage](zones/plage/Scenario.md) |
 
 ## Autres ressources
 

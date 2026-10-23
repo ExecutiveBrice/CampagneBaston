@@ -1,5 +1,39 @@
 # Historique de la campagne
 
+## 2026-10-23 — Quête du laboratoire et aide de Malépine
+
+- Quête principale recentrée sur le laboratoire à retrouver grâce aux trois indices ; retrait de l’ancien artefact et de l’intrigue de souhait caché. Les éclats restent les causes des incidents locaux, issus d’un accident des enchantements du laboratoire.
+- Malépine coopère dès le départ, propose les huit destinations nommées et donne des aides de méthode sans résoudre l’enquête à la place des joueurs ; fiche jouée et contexte public harmonisés avec la mission.
+- Conclusion au laboratoire simplifiée : mission accomplie à l’entrée trouvée, libération sans nouvelle épreuve obligatoire. Progression 8 → 4 → 1, codes et récompenses conservés.
+
+## 2026-10-23 — Adaptation des répliques au ton des joueurs
+
+- Ajout d'une consigne globale dans `adventure.md` : analyse rapide et silencieuse des dernières phrases, puis adaptation des tournures et du vocabulaire à l'agressivité, aux plaisanteries, à l'insistance, à la cordialité ou à l'hésitation.
+- Réévaluation à chaque échange en respectant la personnalité du PNJ, ses connaissances, ses conditions d'accord et de révélation et l'arbitrage du MJ.
+
+## 2026-10-23 — Paroles seules pour les répliques vocales
+
+- Consignes communes et règles impératives des 33 fiches précisées : uniquement les paroles à prononcer, sans didascalies, narration à la première personne, bruitages écrits ni étiquettes, y compris pour `Introduction`, `Meuble` et `Salutation`.
+- Exemples de dialogue direct ajoutés aux consignes communes ; retrait du mot isolé « Enquête. » dans l'introduction de Pincemaille.
+
+## 2026-10-23 — Répliques de contexte pour les générations volontaires
+
+- Ajout de `Meuble` (remarque d’ambiance) et `Salutation` (formule d’au revoir) aux 33 fiches individuelles, après `Introduction`.
+- Courtes répliques propres à chaque PNJ pour amorcer une génération volontaire depuis l’application mobile, sans révélation de secret ni changement d’état.
+
+## 2026-10-23 — Noms courts et secrets des PNJ
+
+- Renommage des 33 fiches `characters/` avec le nom court du PNJ, en minuscules sans accents ; identifiants éditoriaux conservés dans les fiches.
+- Ajout d’une section `Secrets` à chaque fiche, regroupant les confidences existantes avec leurs conditions de révélation.
+- Mise à jour des clés de voix et des liens vers Archibald ; renommage de son fichier secret réservé pour conserver son association avec la fiche.
+
+## 2026-10-22 — Personnalités et interprétation des 33 PNJ
+
+- Enrichissement des 33 fiches individuelles et des neuf fichiers `PNJ.md`, en reprenant les repères des exemples Tokk et Vess : personnalité et histoire, façon de parler, limites des connaissances et règles impératives.
+- Ajout de petites histoires, de travers et de façons de réagir propres à chaque personnage, dans une fantasy comique originale adaptée aux adolescents.
+- Maintien des confidences et de leurs conditions, des accords possibles, des effets et prix des objets et du rôle d'arbitrage du MJ ; aucune quête ou dépense obligatoire ajoutée.
+- Secret global d'Archibald maintenu dans son fichier réservé ; scénarios, lore partagé et progression des indices 8 → 4 → 1 conservés.
+
 ## 2026-10-22 — Repères des PNJ sur le compagnon mobile MJ
 
 - Scénario, attitude, motivation et levier de négociation explicites pour les 33 PNJ, dans les fiches individuelles et les neuf fichiers `PNJ.md`.

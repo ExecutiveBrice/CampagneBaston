@@ -73,7 +73,7 @@ Une bande alphabétique ou une roue en carton peut accompagner la notice. C’es
 | FRT | COQ | Oui |
 | IHU | FER | Non |
 
-Le code FRT désigne le point 17, où se trouve l’accès du laboratoire. Le mot COQ fait écho au souhait catastrophique d’Archibald. Il ne faut pas qu’un dessin de coq marque déjà ce lieu sur la carte, ce qui révélerait la réponse avant le décodage.
+Le code FRT désigne le point 17, où se trouve l’accès du laboratoire. Le mot COQ sert uniquement de réponse à l’énigme du cartographe. Il ne faut pas qu’un dessin de coq marque déjà ce lieu sur la carte, ce qui révélerait la réponse avant le décodage.
 
 ### Exemple de parcours
 

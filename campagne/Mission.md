@@ -8,11 +8,13 @@
 >
 > Une projection d’Archibald Malépine apparaît à la Guilde.
 >
-> « Mon laboratoire secret est devenu trop secret. J’y suis enfermé et je ne retrouve plus son accès extérieur. Le Médaillon de l’Omnipotence Approximative a projeté huit éclats dans la région. Depuis, les poules parlent et certains arbres envoient des factures. »
+> « Mon laboratoire secret est devenu trop secret. J’y suis enfermé et je ne retrouve plus son accès extérieur. Un accident a dispersé huit éclats de ses enchantements dans la région. Depuis, les poules parlent et certains arbres envoient des factures. »
 >
-> « Trois documents permettent de retrouver l’entrée. Leurs copies circulent dans la région. Cherchez où bon vous semble : les gens que vous aiderez auront peut-être conservé quelque chose d’utile. »
+> « Trois documents permettent de retrouver l’entrée. Leurs copies circulent dans la région. Je peux vous proposer huit destinations ; choisissez celles qui vous tentent. Les gens que vous aiderez auront peut-être conservé quelque chose d’utile. »
 
-La Guilde remet la carte, une bourse commune de **20 PO de frais de mission** et un Boussolomètre à Catastrophes qui permet de joindre le mage. Il ne trouve pas le laboratoire et ne révèle pas la solution.
+La Guilde remet la carte, une bourse commune de **20 PO de frais de mission** et un Boussolomètre à Catastrophes qui permet de joindre le mage. Archibald aide gratuitement dès le départ : il présente les huit pistes ci-dessous, rappelle les documents à chercher et explique leur manipulation. Il ne connaît plus l’adresse du laboratoire et ne résout pas les indices à la place des joueurs.
+
+**Objectif unique : retrouver le laboratoire grâce aux trois indices.** Trois scénarios au choix suffisent. L’arrivée à l’entrée identifiée accomplit la mission ; la libération du mage et la mise en sécurité concluent l’aventure sans nouvelle quête ni collecte des huit éclats.
 
 ### Organisation du MJ
 
@@ -25,31 +27,31 @@ Ces documents sont remis après les premier, deuxième et troisième scénarios 
 
 Le support se remet à la résolution du problème local. Il ne faut pas ajouter une nouvelle mission pour l’obtenir. Les quatre PNJ locaux gardent leurs personnalités et leur rôle ; un seul peut servir de dépositaire du document si cela aide la scène.
 
-### Le vrai problème — réservé au MJ
+### L’accident — réservé au MJ
 
-Archibald a souhaité régner sur « un peuple qui ne discute jamais ses ordres ». Le médaillon central prépare une transformation des habitants en poulets et du mage en coq géant. Les huit éclats éjectés produisent les anomalies locales ; les neutraliser règle chaque incident, mais les fragments ne sont plus des clés de portail.
+Archibald a essayé de renforcer les enchantements qui dissimulent son laboratoire, sans lire la rubrique « accès de secours ». La surcharge a dispersé huit éclats d’enchantement dans la région. Ils produisent les anomalies locales ; les neutraliser règle chaque incident, mais ils ne sont ni des clés de portail ni des pièces à réunir pour entrer.
 
-Le laboratoire était caché par un architecte gobelin. Archibald y est entré par téléportation, a perdu ses documents et reste retenu par une attache magique, hors de portée du pupitre du vestibule. Sa projection fonctionne ; sa sortie ne fonctionne plus. Il prétend vouloir confirmer une « stabilisation » ; les héros pourront en réalité annuler le souhait.
+Le laboratoire était caché par un architecte gobelin. Archibald y est entré par téléportation, a perdu ses documents et reste retenu par une attache magique, hors de portée de la commande de sécurité du vestibule. Sa projection fonctionne ; sa sortie ne fonctionne plus. Il veut réellement être secouru. Il minimise sa négligence par vanité, mais donne librement les renseignements utiles à la mission. Une fois l’entrée trouvée, il explique comment ouvrir sa barrière et arrêter les enchantements défaillants.
 
 ### Progression
 
-- **Après le premier scénario :** remise du support 1. Huit positions apparaissent. L’éclat local projette une couronne à plume ; le mage parle du logo du fabricant.
-- **Après le deuxième :** remise du support 2. Quatre positions restent possibles, toutes accompagnées d’un code illisible. L’éclat murmure « souveraineté avicole » ; le mage corrige : « Agricole ! »
+- **Après le premier scénario :** remise du support 1. Huit positions apparaissent. Archibald peut rappeler d’aligner les marques de marge, puis proposer les destinations encore inexplorées.
+- **Après le deuxième :** remise du support 2. Quatre positions restent possibles, toutes accompagnées d’un code illisible. Archibald peut expliquer la superposition ; il ne connaît ni la clé ni le mot recherché.
 - **Après le troisième :** remise du support 3. Les joueurs décodent les quatre mots puis trouvent celui qui répond à l’énigme. Ils désignent le point sur la carte et s’y rendent. Pas de portail automatique.
 
 Le lieu final est fixé avant la partie. Dans l’exemple de préparation, il porte le numéro MJ 17 : une borne ordinaire cache l’entrée du laboratoire. Ce numéro n’a pas besoin d’apparaître aux joueurs. Le calage précis des supports sur la carte reste à faire d’après l’image utilisée.
 
 ### Les huit pistes
 
-| Destination | Rumeur |
-| --- | --- |
-| Ville | Un troll bloque la banque pour récupérer son caillou. |
-| Village | Les poules ont cessé de pondre et réclament un contrat. |
-| Forêt | Un chêne exige un péage ; les écureuils saisissent les bottes. |
-| Marécage | Une princesse grenouille réclame son trône. |
-| Montagne | Un dragon enrhumé bloque le col. |
-| Plaine | Des épouvantails ont volé un chariot. |
-| Désert | Une oasis mobile impose des abonnements. |
-| Plage | La douane des crabes a confisqué un coffre pirate. |
+| Destination nommée | Zone | Rumeur connue d’Archibald |
+| --- | --- | --- |
+| Valombre | [Grande ville](../zones/grande-ville/Scenario.md) | Un troll bloque la banque pour récupérer son caillou. |
+| Tilverton | [Village](../zones/village/Scenario.md) | Les poules ont cessé de pondre et réclament un contrat. |
+| Cormanthor | [Forêt](../zones/foret/Scenario.md) | Un chêne exige un péage ; les écureuils saisissent les bottes. |
+| Le Grand Marais | [Marécage](../zones/marecage/Scenario.md) | Une princesse grenouille réclame son trône. |
+| L’Échine du Dragon | [Montagne](../zones/montagne/Scenario.md) | Un dragon enrhumé bloque le col. |
+| La Sembie | [Plaine](../zones/plaine/Scenario.md) | Des épouvantails ont volé un chariot. |
+| L’Anauroch | [Désert](../zones/desert/Scenario.md) | Une oasis mobile impose des abonnements. |
+| La côte de la Mer de Lune | [Plage](../zones/plage/Scenario.md) | La douane des crabes a confisqué un coffre pirate. |
 
-Les pistes sont proposées ensemble et restent libres. Les voyages sont racontés brièvement. Le chapitre 14 donne les trois supports exacts et les consignes de préparation.
+Archibald propose ces huit noms dès le briefing ou dès qu’on lui demande où chercher, puis détaille les rumeurs qui intéressent le groupe. Ce sont des pistes pour trouver des documents, pas les huit emplacements révélés par le premier indice. Il ignore qui détient le prochain support tant que le MJ ne le lui a pas appris. Aucun ordre de visite n’est imposé ; après chaque scénario, il peut rappeler les pistes restantes. Les voyages sont racontés brièvement. Le chapitre 14 donne les trois supports exacts et les consignes de préparation.

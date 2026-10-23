@@ -9,3 +9,4 @@ voice_studio/
 /voix/*.tmp
 /histoires/*
 !/histoires/README.md
+/voix/
