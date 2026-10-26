@@ -1,12 +1,5 @@
 # Historique de la campagne
 
-## 2026-10-26 — Désert : négociation ou baston
-
-- Deux voies complètes pour obtenir le fragment : résiliation ou reconversion négociée ; combat contre le service des réclamations, avec victoire par les armes ou le décor.
-- Déclenchement volontaire, effectifs, actions sur les deux volets et patins, capitulation, trêve et sorties express précisés. Fragment et indice accessibles dans les deux voies ; ticket supplémentaire conditionnel.
-- Fiches jouées d’Azram et Saïda, bestiaire et objets harmonisés. Fichier PNJ.md absent reconstitué à partir des quatre fiches individuelles existantes.
-- Progression des supports cartographiques et autres zones conservées.
-
 ## 2026-10-23 — Quête du laboratoire et aide de Malépine
 
 - Quête principale recentrée sur le laboratoire à retrouver grâce aux trois indices ; retrait de l’ancien artefact et de l’intrigue de souhait caché. Les éclats restent les causes des incidents locaux, issus d’un accident des enchantements du laboratoire.
