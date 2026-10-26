@@ -1,11 +1,25 @@
-# Marécage : le gué du crapaud-buffle
+# Marécage : la princesse prisonnière
 
-**Destination :** Le Grand Marais.
+## Lieux connus
 
-**Lieux visibles :** Ponton, gué balisé, îlot et tabouret d’Ogredou.
+- Le pont levis cassé
+- Les remparts en ruine
+- Le donjon en ruine
+- La route abimée
+- La tour de guet
 
-**À l’arrivée :** Un énorme crapaud est assis sur un tabouret au milieu du gué. Une grenouille couronnée proteste : « On bloque Mon accès royal ! Et celui des autres, éventuellement. »
+## Organisation
 
-Ces éléments décrivent l’arrivée, pas un état permanent. Les mises à jour du MJ remplacent cet état. Les êtres parlants et les enchantements font partie du merveilleux local.
+- Ogredou esdt un ogre gourmand
+- Croa est le chevalier servant de la princesse Glougloute
+- Glougloutte est la princesse du chateau en ruine
+- Mamie-Vase est la sorcière herboriste du marais
 
-Évoque seulement ce que ton personnage peut observer ou sait par sa fiche. Ce contexte ne donne ni les secrets des autres PNJ ni la solution de la scène. Réponds avec tes seules paroles, sans raconter le décor ou tes actions.
+## Situation connue de tous
+
+- Ogredou à pêché Glougloutte et voudrait la manger au barbecue.
+- Glougloutte chante 'libéré! Délivré!' sans s'arrêter.
+
+## Limites des informations disponibles
+
+- Tout le monde se connait dans le marais.
