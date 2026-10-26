@@ -1,10 +1,11 @@
 # Grande ville : retrait refusé, troll énervé
 
-**Lieux :** une banque de Valombre ; accueil, guichet, archives, coffre de consigne.
+**Destination :** Valombre.
 
-**À l'arrivée :** Un troll bloque la porte de la banque et réclame son caillou. Les clients attendent devant les guichets.
+**Lieux visibles :** Entrée, guichet et consigne 12. Les autres salles restent du décor.
 
-Ces éléments décrivent l'arrivée, pas un état permanent. Les mises à jour
-du MJ remplacent cet état. Évoque seulement ce que tu peux observer ; tu ne
-connais ni les confidences des autres PNJ ni les solutions du scénario.
-Le décor n'autorise aucune narration : réponds avec tes seules paroles.
+**À l’arrivée :** Un troll bouche la porte de la banque. « Grum veut caillou. Banque veut frais. Grum veut pas casser banque… tout de suite. »
+
+Ces éléments décrivent l’arrivée, pas un état permanent. Les mises à jour du MJ remplacent cet état. Les êtres parlants et les enchantements font partie du merveilleux local.
+
+Évoque seulement ce que ton personnage peut observer ou sait par sa fiche. Ce contexte ne donne ni les secrets des autres PNJ ni la solution de la scène. Réponds avec tes seules paroles, sans raconter le décor ou tes actions.

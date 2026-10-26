@@ -1,23 +1,55 @@
-# Marécage : la princesse exige un remboursement
+# Marécage : le gué du crapaud-buffle
 
-[Zones](../README.md) · [Scénario](Scenario.md) · [PNJ](PNJ.md) · [Monstres](Monstres.md) · [Objets](Objets.md)
+[Zones](../README.md) · [Personnages](characters/) · [Bestiaire](Monstres.md) · [Équipement](Objets.md) · [Cartes](Cartes.md)
 
-Préparation commune : [règles](../../campagne/Regles.md), [mission](../../campagne/Mission.md) et [indices](../../indices/Indices.md). Les références à des numéros de chapitre dans le texte correspondent au [sommaire](../../campagne/README.md).
+Préparation : [mission](../../campagne/Mission.md), [règles](../../campagne/Regles.md) et [trois indices](../../indices/Indices.md).
 
-[Cartes conseillées et adaptations](Cartes.md).
+**Destination : Le Grand Marais. Durée : 30 à 40 minutes, puis 3 à 5 minutes pour l’indice.**
 
-**Lieux :** pontons, îlot, souche-palais, ancien panneau de gué. **Fragment :** serti dans la couronne de la princesse.
+## Objectif immédiat
 
-**Accroche.** Une grenouille couronnée vous interpelle : « Enfin ! Des gens avec des pouces ! Mon trône est occupé par un monstre sans aucune éducation. »
+Chasser le crapaud-buffle du gué pour rouvrir le passage.
 
-**Indices.** Le prétendu trône est le tabouret d’un ogre pêcheur. Le « sceptre royal » est sa cuillère. La grenouille n’a jamais été humaine : le fragment trouvé dans une couronne de pacotille l’a rendue bavarde et ambitieuse. Le gué balisé permet d’atteindre l’ogre sans traverser les sables mous.
+**Lieux :** Ponton, gué balisé, îlot et tabouret d’Ogredou.
 
-**Déroulement.** La princesse propose son éclat contre la restitution du trône. L’ogre refuse d’abandonner son unique tabouret. La sorcière locale peut authentifier les objets, mais laisse les héros décider comment régler le conflit. Le garde grenouille exige un duel ou une audience formelle.
+## À lire à l’arrivée
 
-**Trois approches.** Fabriquer un siège royal dans une souche avec une planche ; organiser un procès où la grenouille accepte un nouveau palais en compensation ; détourner le garde pendant qu’un héros décroche la couronne. Si on combat, l’ogre défend son déjeuner et son siège sans poursuivre les fuyards ; un panier d’appâts renversé l’arrête pour sauver sa pêche.
+> Un énorme crapaud est assis sur un tabouret au milieu du gué. Une grenouille couronnée proteste : « On bloque Mon accès royal ! Et celui des autres, éventuellement. »
 
-**Obtention.** La princesse échange volontiers l’éclat contre un trône convaincant ; elle garde la couronne vide. Si les héros révèlent son origine, elle peut répondre : « Une bonne monarchie commence quelque part. »
+## Pour le MJ
 
-**Sortie express.** Une planche de ponton déjà détachée permet de construire un siège en quelques minutes ; les héros doivent assister à un couronnement de trente secondes et applaudir.
+Le crapaud défend son coin humide. Glougloutte est une grenouille parlante autoproclamée princesse ; Ogredou veut seulement récupérer son tabouret. Aucune transformation à expliquer.
 
-**Indice cartographique gagné — support successif.** Mamie Vase remet le document ; sinon il se trouve dans le coffret à bijoux de la princesse. Le MJ remet le support 1, 2 ou 3 selon le nombre de scénarios déjà résolus ; le document n’est pas propre à cette zone. « Le protocole royal dit de le tenir dans le bon sens. Enfin, j’imagine. »
+Mamie Vase indique le passage sûr et l’îlot libre où attirer la bête. Les appâts d’Ogredou sont disponibles gratuitement.
+
+## Agir tout de suite
+
+Attirer le crapaud vers l’îlot avec des appâts ou le repousser à l’aide de planches tenues comme écrans. Son départ libère le gué.
+
+## Combat court
+
+Combattre **un crapaud-buffle (LOC-12)**, qui mord ou projette de la boue. À **5 PV ou moins**, il saute vers l’îlot et abandonne le passage. Pour 6–8 joueurs, garder une seule bête et ajouter la tâche de stabiliser le ponton pendant le combat.
+
+Utiliser les PV et DM du bestiaire, ou la variante express des règles communes ; choisir avant la scène. Les attaques et les résultats restent arbitrés par le MJ.
+
+## Solution sans combat
+
+Demander à Ogredou ses appâts suffit. On peut aussi proposer à Glougloutte d’annoncer l’ouverture royale du gué : elle accepte et ne réclame pas une autre mission.
+
+## Une place pour chacun
+
+Attirer la bête, la contenir, dégager le tabouret, tenir les planches et guider les voyageurs permettent de répartir le groupe.
+
+## Résolution et sortie express
+
+Le gué est libre et Ogredou récupère son siège. La cérémonie de trente secondes de la princesse est une plaisanterie facultative.
+
+**Si le temps presse :** Après une tentative, Ogredou tend sa longue épuisette aux héros : un mouvement collectif vers l’îlot suffit à faire partir la bête.
+
+## Le prochain indice
+
+Mamie Vase donne le document de ses vieux relevés une fois le gué libre. Si elle ne peut pas le remettre, il est dans son étui de cartes posé sur le ponton, à disposition des héros.
+
+Le MJ place ici le **support 1, 2 ou 3**, selon le nombre de scénarios déjà résolus : carte perforée, calque, puis notice. Ce document est gratuit, indépendant des achats et des objets de récompense. Une défaite des héros ne le détruit pas : la sortie express permet une nouvelle tentative ou un accès après la complication. Les joueurs peuvent aussi quitter cette zone et en choisir une autre.
+
+Trois zones quelconques suffisent ; aucun ordre de visite imposé.

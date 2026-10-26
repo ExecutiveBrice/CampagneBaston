@@ -1,10 +1,26 @@
 # Village : la révolte des poules de Tilverton
 
-**Lieux :** place, auberge, poulailler, vieille grange.
+## Lieux connus
 
-**À l'arrivée :** Les poules parlent et font grève à l'approche du concours de quiches. Une poule perchée sur une brouette réclame du grain.
+- La place du village
+- L'auberge
+- La mairie
+- Les maisons du village
+- La grange
 
-Ces éléments décrivent l'arrivée, pas un état permanent. Les mises à jour
-du MJ remplacent cet état. Évoque seulement ce que tu peux observer ; tu ne
-connais ni les confidences des autres PNJ ni les solutions du scénario.
-Le décor n'autorise aucune narration : réponds avec tes seules paroles.
+## Organisation
+
+- Barnabé est le maire du village
+- Cocoric coq armé
+- Gertrude cheffe des poules
+- Huguette aubergiste 
+
+## Situation connue de tous
+
+- Gertrude et ses poules ne pondent plus d'oeuf tant qu'il n'y a plus de grain.
+- Cocoric barre l'entrée de la grange.
+- Le maire demande de sauver la fête sans trop déranger son buffet.
+
+## Limites des informations disponibles
+
+- Tout le monde se connait au village.

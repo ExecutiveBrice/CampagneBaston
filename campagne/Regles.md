@@ -1,52 +1,58 @@
 # Conduire les parties courtes — règles communes
 
-[Accueil](../README.md) · [Correspondance des chapitres](../campagne/README.md)
+[Accueil](../README.md) · [Sommaire](README.md)
 
-### Une zone en quatre temps
+## Une zone en quatre temps
 
-1. **0–5 min :** montrer le problème, présenter un interlocuteur, annoncer un objectif concret.
-2. **5–15 min :** laisser découvrir deux ou trois indices. Ils s’obtiennent aussi par l’observation et les idées des joueurs.
-3. **15–35 min :** jouer une confrontation principale, sociale ou physique.
-4. **35–45 min :** résoudre la situation, récupérer ou neutraliser le fragment puis remettre l’indice cartographique. Garder les dernières minutes pour sa manipulation et son report sur la carte.
+1. **0–5 min :** montrer le problème, donner un objectif concret et une action possible.
+2. **5–10 min :** repérer le passage, l’outil ou le levier utile. Un interlocuteur suffit.
+3. **10–30 min :** jouer une action principale, une ruse ou un combat court.
+4. **30–40 min :** résoudre la situation et remettre le prochain indice ; ajouter 3 à 5 minutes pour le manipuler.
 
-À la troisième zone, terminer la scène locale vers 35–40 minutes, consacrer quelques minutes au recoupement puis raconter le trajet vers le lieu identifié. Le final doit commencer vers la minute 45–48. Si nécessaire, activer la sortie express. La destination finale est une courte scène, pas un quatrième scénario.
+À la troisième zone, garder le temps du trajet raconté et des 5 à 10 minutes de conclusion. Le laboratoire est une courte scène, pas un quatrième scénario.
 
-### Pour 4 à 8 joueurs
+## Des conversations courtes
 
-Les quatre PNJ d’une zone sont disponibles, mais **deux seulement ont besoin de longues conversations**. Les deux autres donnent un indice ou interviennent dans le décor. Ne fais jamais de l’entretien avec chacun une étape obligatoire.
+Les quatre PNJ restent disponibles, mais aucun tour de table d’entretiens n’est nécessaire. Donner les renseignements utiles dès la première question pertinente. Une objection du PNJ et une réponse des héros suffisent à choisir la suite.
 
-À chaque scène, demande à chacun une contribution : parler, observer, distraire, manipuler un objet, protéger quelqu’un, chercher un passage. Un plan réussi peut résoudre plusieurs actions sans huit jets successifs. Avec huit joueurs, ajoute deux tâches simultanées dans la même scène, pas deux énigmes supplémentaires.
+Quand les joueurs veulent agir ou combattre, passer à la scène. Ne pas imposer un procès, un contrat ou des excuses pour ouvrir l’accès déjà gagné. Une solution pacifique reste possible, avec une condition simple et visible.
 
-### Jets et bagarres
+## Combats autorisés
 
-Utilise les règles habituelles du groupe. Un indice nécessaire se découvre sans jet ; un test peut permettre d’éviter une complication, de gagner du temps ou d’obtenir un avantage. Une idée qui exploite clairement ce que les joueurs ont appris peut réussir directement.
+Chaque scénario donne une opposition prévue, son effectif et un objectif de fin. Le groupe peut la choisir directement pour limiter les discussions. Les ennemis utilisent leurs attaques ; les héros peuvent vaincre, désarmer, repousser, contourner ou atteindre le mécanisme sous leur protection.
 
-**Variante express facultative, à la place des PV :** un petit adversaire abandonne après une attaque réussie ; un costaud après deux ; un obstacle majeur après trois contributions réussies différentes du groupe. Les attaques et la DEF suivent les règles habituelles. Une conséquence d’échec peut être une chute, un objet tombé, une projection de boue ou des dégâts ordinaires selon les règles choisies. Un même coup ne fournit qu’une contribution, même avec plusieurs jets. Les ennemis battus fuient ou se rendent.
+Utiliser les **fiches maison pour Chroniques Oubliées Fantasy 2** : DEF, PV, initiative, caractéristiques, armes, DM, armures et capacités. Ces valeurs ne sont pas les profils officiels. Effectifs indiqués pour **4–5 / 6–8 joueurs**.
 
-Avec les fiches chiffrées, jouer les attaques, DM et PV normalement. À partir du troisième round, un adversaire dont le moral cède peut proposer un accord ou battre en retraite. Les seuils précis figurent dans les fiches. Cela aide à garder un rythme court ; le round 3 ne supprime pas automatiquement les PV restants. Il est rarement nécessaire de vaincre tous les adversaires.
+Choisir **une seule opposition** par zone. Les autres créatures restent en réserve. Ne pas ajouter au combat les PNJ d’appui ni une seconde rencontre parce que les héros ont réussi la première. Brûlot est le dragon du scénario, pas un autre individu.
 
-### Le principe d’échec
+Viser **2 à 4 rounds**, sans effacer arbitrairement les PV. Utiliser les seuils de repli du bestiaire et les objectifs de scène : le coffre mis à l’abri ou le chariot arrêté peuvent terminer l’opposition. À partir du troisième round, rappeler un passage ou une manipulation qui permet d’en finir. Les ennemis se replient ou se rendent quand leur condition de fin est atteinte.
 
-Un jet raté n’efface jamais un fragment et ne détruit jamais un indice indispensable. Les sorties express supposent que les héros ont tenté d’agir : ils récupèrent le fragment avec une dette, une corvée ou une humiliation. Un refus volontaire de mission reste un vrai choix : aucun fragment n’est alors attribué automatiquement.
+**Variante express facultative, à la place des PV :** un petit adversaire abandonne après une attaque réussie, un costaud après deux. Un obstacle majeur cède après trois contributions réussies différentes. Les attaques, DEF et conséquences suivent les règles habituelles. Un même coup ne compte qu’une fois. Choisir ce mode avant le combat ; ne pas le cumuler avec les PV.
 
-L’humour vise les vantards, les institutions absurdes, les objets capricieux et les mauvais plans. Fais rire avec les personnages, sans rabaisser un adolescent qui hésite. Pas besoin d’humour sexuel, de cruauté ou d’insultes visant les joueurs.
+Une bande ou nuée est un seul adversaire collectif : une réserve de PV et une attaque par tour. Deux bandes sont deux profils distincts.
 
-### Bestiaire et équipement : règles communes
+## Une place pour 4 à 8 joueurs
 
-Les profils des zones sont désormais des **fiches maison chiffrées pour Chroniques Oubliées Fantasy 2**, avec DEF, PV, initiative, armes et DM. Le chapitre 16 donne la légende commune. Les valeurs sont des adaptations pour cette aventure, en particulier pour les jeunes ou petites créatures ; ce ne sont pas les profils officiels du bestiaire. Si tu préfères le mode express du chapitre 2, remplace les PV par le nombre de réussites de la variante ; ne pas cumuler les deux systèmes. Une bande ou nuée locale est un seul adversaire collectif, avec une seule réserve de PV et une seule attaque par tour.
+Pendant la même scène, répartir combat, manipulation, couverture d’un camarade, récupération du chargement ou guidage des passants. Avec huit héros, ajouter des tâches simultanées plutôt que doubler les PV. Une idée cohérente peut réussir sans huit jets successifs.
 
-Chaque zone propose trois types de créatures, mais le MJ en choisit **au plus un** pour une courte opposition si les actions du groupe le justifient. Les autres servent de décor ou restent en réserve. Les armures, les épouvantails et le dragon peuvent remplacer l’opposition déjà décrite : ne pas ajouter une seconde rencontre identique. Brûlot et les animaux déjà nommés restent les mêmes individus que les PNJ.
+Les attaques et dégâts se jouent normalement. Les petits pincements décrits dans le décor ne remplacent pas les DM chiffrés d’une véritable attaque. Garder une fantasy comique pour adolescents, sans violence graphique ni humiliation des joueurs.
 
-Les nombres sont donnés pour **4–5 joueurs / 6–8 joueurs**. Ajouter une tâche simultanée, comme récupérer un sac ou protéger une ouverture, plutôt qu’allonger les points de vie. Une créature peut fuir, se calmer ou négocier à travers son meneur. La condition « vaincre » peut être remplie sans la blesser.
+## Échec et indices
 
-Chaque zone contient **deux objets à trouver, un à gagner et deux à acheter**, soit cinq objets proposés. Ce sont des exemplaires pour le groupe, sauf mention de portions ou doses. Ils se découvrent dans les lieux déjà explorés : aucune quête supplémentaire n’est requise. Une recherche pertinente suffit ; un jet peut éviter du bruit ou permettre d’agir plus vite. Ne pas exiger une réussite pour remarquer tous les objets.
+Un renseignement indispensable se découvre sans jet. Un test peut éviter du bruit, des dégâts ou une perte de temps. Un échec ne détruit jamais le document et ne crée pas de quête annexe.
 
-Pour permettre les achats dès le départ, la Guilde confie **20 PO de frais de mission au groupe**, distincts des 30 PO par héros promis à la fin. Les prix sont des propositions pour cette courte aventure, pas des tarifs officiels. Les objets rares existent en un exemplaire ; les doses et rations ont le stock indiqué. Une négociation amusante peut faire gagner 1 PO ou une petite portion, sans ouvrir un marchandage interminable.
+Après une tentative, la sortie express permet de reprendre l’action avec une complication simple. Une défaite peut conduire à un recul ou à une nouvelle tentative ; le prochain indice reste récupérable à l’endroit indiqué. Les héros peuvent aussi quitter volontairement la zone et en choisir une autre.
 
-Une **relance** permet de rejouer un test raté et de garder le second résultat, même moins bon. Un seul objet peut fournir une relance sur le même test. « Par aventure » signifie une activation pour l’ensemble des trois scénarios et du final, quel que soit le nombre de porteurs successifs. Le MJ coche l’utilisation. Les effets automatiques fonctionnent seulement dans les limites décrites ; ils ne dispensent pas de résoudre les trois indices.
+**Les documents cartographiques sont gratuits et séparés du butin.** Après la résolution, les remettre aussi aux groupes qui ont combattu. Leur emplacement de secours permet de les prendre sans nouvelle conversation. Le MJ attribue le support 1, puis 2, puis 3 ; aucune zone n’a son indice attitré. Progression : **8 → 4 → 1**.
 
-Les objets indiquent désormais séparément leur nature, leur bonus éventuel et leur pouvoir éventuel. Une corde peut être utile sans bonus ni magie ; un équipement de qualité peut donner un bonus sans pouvoir. Le chapitre 15 fixe les conventions de calcul et de cumul des bonus.
+## Équipement
 
-Les petits enchantements d’équipement sont autonomes : ils ne disparaissent pas quand les éclats sont neutralisés. Les créatures animées localement par un éclat peuvent, elles, se calmer ou redevenir ordinaires après son retrait. Aucune dépouille de PNJ n’est nécessaire pour obtenir les objets.
+Les objets se trouvent dans les lieux de la scène ou auprès des marchands. Ni achat ni objet spécial ne conditionne l’indice. Les prêts prévus par le scénario sont gratuits, même si le PNJ vend d’autres fournitures.
 
-**Les indices cartographiques sont toujours gratuits et séparés du butin.** Une récompense supplémentaire peut dépendre de la façon dont la situation est réglée ; le prochain indice est remis après résolution même si les héros n’ont pas acheté, fouillé ou gagné l’objet spécial.
+La Guilde donne **20 PO de frais au groupe**, distincts des **30 PO par héros** promis à la fin. Les prix locaux sont des propositions pour cette aventure, pas des tarifs officiels.
+
+Respecter pour chaque objet nature, effet, bonus, pouvoir, charges et prix. Les exemplaires et doses sont ceux des fiches. Les [conventions d’équipement](../zones/commun/Objets.md) fixent le calcul et le cumul des bonus. Aucun équipement n’est requis pour résoudre les trois indices.
+
+Une **relance** rejoue un test raté et garde le second résultat, même moins bon. Un seul objet donne une relance sur le même test. « Par aventure » signifie une utilisation pour l’ensemble des trois zones et de la conclusion, quel que soit le porteur ; le MJ la coche.
+
+Les êtres parlants et les enchantements locaux sont indépendants du laboratoire. Ils ne disparaissent pas quand le mage est libéré. Les objets utiles peuvent rester ordinaires, sans bonus ni magie, et aucune dépouille de PNJ n’est nécessaire à leur acquisition.

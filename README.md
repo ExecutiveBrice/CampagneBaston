@@ -1,79 +1,58 @@
 # CampagneBaston — La Compagnie des Huit Catastrophes
 
-**À la recherche du laboratoire introuvable** : une campagne originale de fantasy comique pour **4 à 8 adolescents**, avec des profils maison pour **Chroniques Oubliées Fantasy 2**.
+**À la recherche du laboratoire introuvable** : une campagne de fantasy comique pour **4 à 8 adolescents**, avec des profils maison pour **Chroniques Oubliées Fantasy 2**.
 
 ## Jouer et préparer
 
-1. Lire la [présentation](campagne/Presentation.md), la [mission principale](campagne/Mission.md) et les [règles communes](campagne/Regles.md).
+1. Lire la [mission](campagne/Mission.md), la [présentation](campagne/Presentation.md) et les [règles communes](campagne/Regles.md).
 2. Laisser les joueurs choisir parmi les [huit zones](zones/README.md).
-3. Préparer les [trois indices communs](indices/Indices.md) et le [final](campagne/Final.md).
-4. Ouvrir directement ce dossier dans NPC : [guide de lancement et format natif](campagne/NPC.md). Les [consignes des PNJ IA](zones/commun/PNJ-IA.md) restent disponibles pour les autres outils.
+3. Préparer les [trois indices](indices/Indices.md) et la [conclusion au laboratoire](campagne/Final.md).
+4. Pour jouer les PNJ, utiliser les [consignes communes](adventure.md), les fiches individuelles dans `characters/` et le `lore.md` de la zone.
 
-Les zones restent libres. Retrouver le laboratoire d’Archibald Malépine constitue la quête principale : trois scénarios permettent de réunir les trois indices et de terminer la mission. Le mage aide les joueurs à choisir leurs destinations et à lire les supports. Chaque zone tient en moins d’une heure. Les indices sont remis dans l’ordre, indépendamment des zones : **8 positions, puis 4, puis 1**.
+**Retrouver le laboratoire de Malépine suffit à accomplir la quête.** Trois scénarios quelconques donnent les mêmes trois documents, dans l’ordre : **8 positions, puis 4, puis 1**. Le mage propose les destinations et aide à lire les supports.
 
-## Ouvrir cette campagne dans NPC
+Chaque scène locale tient en moins d’une heure. Elle présente un objectif concret, une action directe, un combat court possible et une solution sans combat. Un seul interlocuteur suffit pour comprendre quoi faire. Les êtres parlants et les enchantements font partie du monde ; aucune collecte magique annexe n’est nécessaire.
 
-La racine de ce dépôt est directement utilisable par le projet `pnj`, sans import.
-Avec l'installation locale actuelle :
+## Les huit destinations
 
-```sh
-/Users/brice/PycharmProjects/pnj/.venv/bin/npc gui /Users/brice/WebstormProjects/CampagneBaston
-```
+| Destination | Environnement | Scénario |
+| --- | --- | --- |
+| Valombre | Grande ville | [retrait refusé, troll énervé](zones/grande-ville/Scenario.md) |
+| Tilverton | Village | [la révolte des poules de Tilverton](zones/village/Scenario.md) |
+| Cormanthor | Forêt | [le chêne a les glands](zones/foret/Scenario.md) |
+| Le Grand Marais | Marécage | [le gué du crapaud-buffle](zones/marecage/Scenario.md) |
+| L’Échine du Dragon | Montagne | [atchoum, vous êtes cuits](zones/montagne/Scenario.md) |
+| La Sembie | Plaine | [la grève des hommes de paille](zones/plaine/Scenario.md) |
+| L’Anauroch | Désert | [l’oasis qui prend la fuite](zones/desert/Scenario.md) |
+| La côte de la Mer de Lune | Plage | [le trésor passe à la pince](zones/plage/Scenario.md) |
 
-Les 33 fiches individuelles sont dans `zones/<zone>/characters/`, avec un
-`lore.md` par zone. [Le guide NPC](campagne/NPC.md) décrit les voix, les mémoires,
-les secrets, les commandes et les fichiers à modifier pour faire évoluer la partie.
+## Fichiers de jeu
 
-## Une arborescence par zone
-
-Chaque zone possède son dossier sous `zones/` et contient **quatre fichiers complets et éditables** :
+La racine est utilisable directement dans NPC, sans import. Les fichiers sont modifiés sur place :
 
 | Fichier | Contenu |
 | --- | --- |
-| `Scenario.md` | Accroche, lieux, déroulement, approches, résolution et remise de l’indice |
-| `PNJ.md` | Quatre personnages avec objectifs, connaissances, secrets, réactions et voix |
-| `Monstres.md` | Bestiaire local chiffré : DEF, PV, initiative, attaques, armes, armure, capacités et moral |
-| `Objets.md` | Cinq objets à trouver, gagner ou acheter, avec prix, bonus et pouvoirs éventuels |
+| `config.toml` | Langue, modèles et voix |
+| [adventure.md](adventure.md) | Consignes communes des dialogues |
+| `zones/<zone>/Scenario.md` | Objectif, action, combat, sortie express et document |
+| `zones/<zone>/characters/*.md` | 33 fiches individuelles, dont Malépine dans la zone commune |
+| `zones/<zone>/lore.md` | Décor public observable |
+| `zones/<zone>/Monstres.md` | Profils chiffrés et conditions de fin des combats |
+| `zones/<zone>/Objets.md`, lorsqu’il est présent | Équipement, prix, usages et charges |
 
-En complément, `characters/` contient les fiches individuelles lues directement
-par NPC et `lore.md` décrit uniquement le décor observable partagé. Ces fichiers
-sont édités sur place ; il n'y a aucune étape de génération ou d'import.
+Le catalogue de la plaine n’est pas présent ; sa récompense documentée figure dans la [fiche de Gaspard](zones/plaine/characters/gaspard.md#objets-associés--effets-exacts).
 
-Exemple : [village/Scenario.md](zones/village/Scenario.md), [village/PNJ.md](zones/village/PNJ.md), [village/Monstres.md](zones/village/Monstres.md) et [village/Objets.md](zones/village/Objets.md).
+Les scénarios complets, solutions des indices et informations du MJ ne doivent pas être ajoutés au lore partagé.
 
-## Accès aux huit zones
+## Préparation et suivi
 
-| Zone | Dossier |
-| --- | --- |
-| Grande ville — Valombre | [zones/grande-ville](zones/grande-ville/Scenario.md) |
-| Village — Tilverton | [zones/village](zones/village/Scenario.md) |
-| Forêt — Cormanthor | [zones/foret](zones/foret/Scenario.md) |
-| Marécage — le Grand Marais | [zones/marecage](zones/marecage/Scenario.md) |
-| Montagne — l’Échine du Dragon | [zones/montagne](zones/montagne/Scenario.md) |
-| Plaine — la Sembie | [zones/plaine](zones/plaine/Scenario.md) |
-| Désert — l’Anauroch | [zones/desert](zones/desert/Scenario.md) |
-| Plage — la côte de la Mer de Lune | [zones/plage](zones/plage/Scenario.md) |
+- [Sommaire de campagne](campagne/README.md) et [aide du MJ](campagne/Aide-MJ.md).
+- [Malépine](zones/commun/characters/archibald.md) et son [contexte public](zones/commun/lore.md).
+- [Bestiaire général](zones/commun/Monstres.md) et [objets généralistes](zones/commun/Objets.md).
+- [Plans](plans/README.md), [sélection](plans/SELECTION.md) et [sources des ressources](plans/SOURCES.md).
+- [Voix](voix/README.md), [histoires](histoires/README.md) et [exports](exports/README.md).
+- [Historique des évolutions](CHANGELOG.md).
 
-## Autres ressources
+Les cartes citées et les trois supports physiques demandent encore une préparation ; ne pas supposer qu’une image ou un calque ajusté est fourni. Les journaux décrivent une partie particulière et restent distincts du scénario de référence.
 
-| Dossier | Contenu |
-| --- | --- |
-| [campagne/](campagne/README.md) | Mission, règles, final, aide MJ et correspondance des anciens chapitres |
-| [commun/](zones/commun/README.md) | Archibald, consignes IA, 18 monstres généralistes et 32 objets généralistes |
-| [indices/](indices/README.md) | Textes et méthode des trois indices, préparation des supports |
-| [plans/](plans/README.md) | Cartes et plans à ajouter, suivi des sources |
-| [sessions/](sessions/README.md) | Modèle de journal des parties, décisions et inventaires |
-| [voix/](voix/README.md) | Descriptions vocales et aperçus audio |
-| [histoires/](histoires/README.md) | Textes et narrations produits par le studio NPC |
-| [exports/](exports/README.md) | Futurs PDF et aides de jeu imprimables |
-| [archives/](archives/README.md) | Livret d’origine conservé intégralement comme archive figée |
-
-## Faire évoluer la campagne
-
-Modifier les fichiers de la zone concernée et les fichiers communs : ce sont les sources éditoriales de référence. L’archive d’origine ne reçoit pas ces modifications. Les références conservées aux chapitres du livret sont expliquées dans le [sommaire](campagne/README.md).
-
-Lire [AGENTS.md](AGENTS.md) pour les contraintes et conventions. Décrire chaque évolution dans un commit et consigner les changements importants dans [CHANGELOG.md](CHANGELOG.md). Une branche et une pull request peuvent servir pour une révision à relire.
-
-Les conversations ne sont pas synchronisées automatiquement avec GitHub. Reporter les décisions utiles dans les fichiers. Aucun plan graphique, calque ajusté ou export PDF n’est inclus dans cet import initial.
-
-Ce dépôt contient les solutions et secrets du MJ. Préparer des documents distincts pour les joueurs ; les dossiers ne constituent pas des droits d’accès séparés.
+Ce dépôt contient des informations du MJ. Préparer des documents distincts pour les joueurs ; les dossiers ne constituent pas des droits d’accès séparés.

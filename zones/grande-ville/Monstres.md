@@ -1,6 +1,6 @@
 # Monstres — Grande ville
 
-[Zones](../README.md) · [Scénario](Scenario.md) · [PNJ](PNJ.md) · [Monstres](Monstres.md) · [Objets](Objets.md)
+[Zones](../README.md) · [Scénario](Scenario.md) · [Personnages](characters/) · [Monstres](Monstres.md) · [Objets](Objets.md)
 
 Lire les [règles communes](../../campagne/Regles.md) et la légende du [bestiaire général](../commun/Monstres.md) avant d’utiliser les valeurs.
 
@@ -54,5 +54,5 @@ Lire les [règles communes](../../campagne/Regles.md) et la légende du [bestiai
 
 **Capacité et seuil de fin :** Peut remplacer les DM par la retenue d’un objet : une action d’attaque et FOR difficulté 10 pour le retirer. Une cuillère ou du savon la fait ouvrir la gueule.
 - Nombre : 1 / 1.
-- Comportement et danger : Une boîte de dépôt à langue collante mord les manches et avale les petits objets métalliques. Elle peut encombrer les archives, sans jamais contenir le fragment ni l’indice cartographique.
+- Comportement et danger : Une boîte de dépôt à langue collante mord les manches et avale les petits objets métalliques. Elle peut encombrer les archives, sans jamais contenir l’indice cartographique.
 - Pour contourner la menace : Lui donner une cuillère ou un morceau de savon lui fait ouvrir la gueule. On récupère les affaires en la chatouillant avec une règle.

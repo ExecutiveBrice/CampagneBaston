@@ -14,6 +14,6 @@ Une entrée de grotte dans un relief rocheux, utilisable pour rencontrer le jeun
 
 ## Utilisation pour notre scénario
 
-Le col reste hors champ ; utiliser l’approche comme corniche et placer les provisions près de l’entrée. Prévoir une zone dégagée pour tendre la couverture. La carte ne doit pas suggérer un donjon à nettoyer : le dragon veut de l’aide.
+Utiliser l’approche comme col bloqué par Brûlot. Placer des rochers pour se protéger du souffle et un replat sûr conduisant à la grotte. L’eau et le miel restent près de Pipo ; un combat éventuel se joue sur le terrain stable, pas au bord du vide.
 
 Garder les informations secrètes sur un exemplaire MJ. Ces adaptations sont des conseils de mise en scène, sans modification des règles ou du scénario canonique. Les trois indices communs restent indépendants de ce plan local.

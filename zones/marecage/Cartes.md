@@ -14,6 +14,6 @@ Un marais avec racines, arbres morts et constructions abandonnées ; une bonne b
 
 ## Utilisation pour notre scénario
 
-Désigner un îlot comme audience royale, ajouter la souche-palais et le tabouret de l’ogre comme petits repères. Baliser clairement un gué sûr. Si des pontons manquent, les représenter par de simples bandes ou les décrire ; aucun passage obligatoire dans une zone dangereuse.
+Placer le tabouret et le crapaud-buffle dans le gué balisé ; garder un îlot libre pour attirer la bête. Indiquer le ponton, les planches et les appâts accessibles. Si des éléments manquent au dessin, les décrire ou les représenter par des jetons.
 
 Garder les informations secrètes sur un exemplaire MJ. Ces adaptations sont des conseils de mise en scène, sans modification des règles ou du scénario canonique. Les trois indices communs restent indépendants de ce plan local.

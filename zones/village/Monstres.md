@@ -1,6 +1,6 @@
 # Monstres — Village
 
-[Zones](../README.md) · [Scénario](Scenario.md) · [PNJ](PNJ.md) · [Monstres](Monstres.md) · [Objets](Objets.md)
+[Zones](../README.md) · [Scénario](Scenario.md) · [Personnages](characters/) · [Monstres](Monstres.md) · [Objets](Objets.md)
 
 Lire les [règles communes](../../campagne/Regles.md) et la légende du [bestiaire général](../commun/Monstres.md) avant d’utiliser les valeurs.
 
@@ -20,7 +20,7 @@ Lire les [règles communes](../../campagne/Regles.md) et la légende du [bestiai
 
 **Capacité et seuil de fin :** Une poignée de grain détourne la nuée un round ; un accord avec Gertrude la calme. À 4 PV ou moins, les poules se dispersent.
 - Nombre : 1 nuée / 2 nuées.
-- Comportement et danger : Elles attaquent les lacets, passent entre les jambes et entraînent une chute dans la paille en cas de défense ratée. Elles obéissent à Gertrude tant que le fragment agit.
+- Comportement et danger : Elles attaquent les lacets, passent entre les jambes et entraînent une chute dans la paille en cas de défense ratée. Elles obéissent à Gertrude et abandonnent l’opposition dès que l’auge est remplie.
 - Pour contourner la menace : Une poignée de grain les détourne un tour ; un accord avec leur cheffe arrête toute la nuée.
 
 **Rat farineux.**

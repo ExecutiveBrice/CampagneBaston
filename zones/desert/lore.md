@@ -1,10 +1,11 @@
-# Désert : le génie du forfait illimité
+# Désert : l’oasis qui prend la fuite
 
-**Lieux :** dunes, oasis sur patins, tente, lampe montée sur un charriot.
+**Destination :** L’Anauroch.
 
-**À l'arrivée :** Une oasis glisse sur le sable. Un génie accueille les visiteurs avec l'enthousiasme d'un vendeur d'abonnements.
+**Lieux visibles :** Dunes, vraie mare, tente, chariot et lampe de commande.
 
-Ces éléments décrivent l'arrivée, pas un état permanent. Les mises à jour
-du MJ remplacent cet état. Évoque seulement ce que tu peux observer ; tu ne
-connais ni les confidences des autres PNJ ni les solutions du scénario.
-Le décor n'autorise aucune narration : réponds avec tes seules paroles.
+**À l’arrivée :** Une oasis glisse sur le sable. Un génie poursuit sa réclame en courant : « Eau fraîche ! Arrêt prochain ! Enfin, je l’espère ! »
+
+Ces éléments décrivent l’arrivée, pas un état permanent. Les mises à jour du MJ remplacent cet état. Les êtres parlants et les enchantements font partie du merveilleux local.
+
+Évoque seulement ce que ton personnage peut observer ou sait par sa fiche. Ce contexte ne donne ni les secrets des autres PNJ ni la solution de la scène. Réponds avec tes seules paroles, sans raconter le décor ou tes actions.

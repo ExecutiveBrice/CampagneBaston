@@ -1,57 +1,69 @@
 # Mission principale
 
-[Accueil](../README.md) · [Correspondance des chapitres](../campagne/README.md)
+[Accueil](../README.md) · [Sommaire](README.md)
 
-### À lire aux joueurs
+## À lire aux joueurs
 
-> Une affiche promet « 30 pièces d’or PAR PERSONNE pour une mission sans danger significatif* ». L’astérisque renvoie à un trou dans le papier.
+> Une affiche promet « 30 pièces d’or PAR PERSONNE pour retrouver un laboratoire. Adresse à déterminer. »
 >
 > Une projection d’Archibald Malépine apparaît à la Guilde.
 >
-> « Mon laboratoire secret est devenu trop secret. J’y suis enfermé et je ne retrouve plus son accès extérieur. Un accident a dispersé huit éclats de ses enchantements dans la région. Depuis, les poules parlent et certains arbres envoient des factures. »
+> « Je suis enfermé dans mon laboratoire. Mon enchantement de sécurité fonctionne beaucoup trop bien et j’ai perdu l’adresse de l’entrée. Trois documents permettent de la retrouver ; des copies circulent dans la région. »
 >
-> « Trois documents permettent de retrouver l’entrée. Leurs copies circulent dans la région. Je peux vous proposer huit destinations ; choisissez celles qui vous tentent. Les gens que vous aiderez auront peut-être conservé quelque chose d’utile. »
+> « Aidez les gens sur votre route et récupérez ces documents. Choisissez vos destinations ; je peux vous donner des pistes et vous aider à lire les cartes. »
 
-La Guilde remet la carte, une bourse commune de **20 PO de frais de mission** et un Boussolomètre à Catastrophes qui permet de joindre le mage. Archibald aide gratuitement dès le départ : il présente les huit pistes ci-dessous, rappelle les documents à chercher et explique leur manipulation. Il ne connaît plus l’adresse du laboratoire et ne résout pas les indices à la place des joueurs.
+La Guilde remet la carte, **20 PO de frais communs** et un Boussolomètre à Catastrophes pour joindre Malépine. Cet appareil sert à communiquer ; il ne localise pas le laboratoire.
 
-**Objectif unique : retrouver le laboratoire grâce aux trois indices.** Trois scénarios au choix suffisent. L’arrivée à l’entrée identifiée accomplit la mission ; la libération du mage et la mise en sécurité concluent l’aventure sans nouvelle quête ni collecte des huit éclats.
+**Objectif : retrouver l’entrée du laboratoire avec les trois indices.** Trois scénarios quelconques suffisent. Arriver à l’entrée identifiée accomplit la mission et donne droit aux **30 PO par héros**, distinctes des frais communs.
 
-### Organisation du MJ
+## Déroulement simple
 
-**Il n’y a pas un indice différent par environnement.** Le MJ prépare seulement trois supports :
-1. une carte perforée qui révèle huit emplacements ;
-2. un calque qui conserve quatre candidats et leur associe quatre codes ;
-3. une clé de décodage et une courte énigme qui désignent l’un des quatre.
+1. Malépine présente les huit destinations ci-dessous. Les joueurs en choisissent une.
+2. Dans la zone, un PNJ annonce le problème et l’action utile. Une ruse, une aide concrète, un accord bref ou un combat peuvent le résoudre.
+3. Le MJ remet le prochain document, puis laisse les joueurs le manipuler pendant 3 à 5 minutes.
+4. Après trois zones, les joueurs désignent l’entrée sur la carte. Le trajet et la libération du mage forment une courte conclusion.
 
-Ces documents sont remis après les premier, deuxième et troisième scénarios résolus. Ville–forêt–plage et montagne–désert–village donnent donc exactement la même progression. Le MJ place le prochain support dans un coffre, des archives ou les affaires d’un PNJ de la zone visitée. Le contenu ne change pas ; seule la raison de sa présence s’adapte au décor.
+Les documents sont gratuits. Leur remise ne dépend ni d’un achat, ni d’un interrogatoire de tous les PNJ, ni d’une victoire obtenue uniquement par la parole. Ils restent récupérables si leur dépositaire est absent ou ne veut plus parler.
 
-Le support se remet à la résolution du problème local. Il ne faut pas ajouter une nouvelle mission pour l’obtenir. Les quatre PNJ locaux gardent leurs personnalités et leur rôle ; un seul peut servir de dépositaire du document si cela aide la scène.
+## Les trois indices
 
-### L’accident — réservé au MJ
+Les mêmes supports sont remis dans le même ordre, quels que soient les lieux visités :
 
-Archibald a essayé de renforcer les enchantements qui dissimulent son laboratoire, sans lire la rubrique « accès de secours ». La surcharge a dispersé huit éclats d’enchantement dans la région. Ils produisent les anomalies locales ; les neutraliser règle chaque incident, mais ils ne sont ni des clés de portail ni des pièces à réunir pour entrer.
-
-Le laboratoire était caché par un architecte gobelin. Archibald y est entré par téléportation, a perdu ses documents et reste retenu par une attache magique, hors de portée de la commande de sécurité du vestibule. Sa projection fonctionne ; sa sortie ne fonctionne plus. Il veut réellement être secouru. Il minimise sa négligence par vanité, mais donne librement les renseignements utiles à la mission. Une fois l’entrée trouvée, il explique comment ouvrir sa barrière et arrêter les enchantements défaillants.
-
-### Progression
-
-- **Après le premier scénario :** remise du support 1. Huit positions apparaissent. Archibald peut rappeler d’aligner les marques de marge, puis proposer les destinations encore inexplorées.
-- **Après le deuxième :** remise du support 2. Quatre positions restent possibles, toutes accompagnées d’un code illisible. Archibald peut expliquer la superposition ; il ne connaît ni la clé ni le mot recherché.
-- **Après le troisième :** remise du support 3. Les joueurs décodent les quatre mots puis trouvent celui qui répond à l’énigme. Ils désignent le point sur la carte et s’y rendent. Pas de portail automatique.
-
-Le lieu final est fixé avant la partie. Dans l’exemple de préparation, il porte le numéro MJ 17 : une borne ordinaire cache l’entrée du laboratoire. Ce numéro n’a pas besoin d’apparaître aux joueurs. Le calage précis des supports sur la carte reste à faire d’après l’image utilisée.
-
-### Les huit pistes
-
-| Destination nommée | Zone | Rumeur connue d’Archibald |
+| Après résolution | Support | Résultat |
 | --- | --- | --- |
-| Valombre | [Grande ville](../zones/grande-ville/Scenario.md) | Un troll bloque la banque pour récupérer son caillou. |
-| Tilverton | [Village](../zones/village/Scenario.md) | Les poules ont cessé de pondre et réclament un contrat. |
-| Cormanthor | [Forêt](../zones/foret/Scenario.md) | Un chêne exige un péage ; les écureuils saisissent les bottes. |
-| Le Grand Marais | [Marécage](../zones/marecage/Scenario.md) | Une princesse grenouille réclame son trône. |
-| L’Échine du Dragon | [Montagne](../zones/montagne/Scenario.md) | Un dragon enrhumé bloque le col. |
-| La Sembie | [Plaine](../zones/plaine/Scenario.md) | Des épouvantails ont volé un chariot. |
-| L’Anauroch | [Désert](../zones/desert/Scenario.md) | Une oasis mobile impose des abonnements. |
-| La côte de la Mer de Lune | [Plage](../zones/plage/Scenario.md) | La douane des crabes a confisqué un coffre pirate. |
+| Première zone | Carte perforée | Huit emplacements possibles |
+| Deuxième zone | Calque avec quatre cercles et quatre codes | Quatre candidats, jamais seulement deux |
+| Troisième zone | Notice de décodage et énigme | Une position unique |
 
-Archibald propose ces huit noms dès le briefing ou dès qu’on lui demande où chercher, puis détaille les rumeurs qui intéressent le groupe. Ce sont des pistes pour trouver des documents, pas les huit emplacements révélés par le premier indice. Il ignore qui détient le prochain support tant que le MJ ne le lui a pas appris. Aucun ordre de visite n’est imposé ; après chaque scénario, il peut rappeler les pistes restantes. Les voyages sont racontés brièvement. Le chapitre 14 donne les trois supports exacts et les consignes de préparation.
+Le MJ place le document dans les affaires ou les archives décrites par le scénario choisi. Pas de quatrième mission pour obtenir la notice. Le [guide des indices](../indices/Indices.md) conserve les textes, les codes et les solutions.
+
+Les huit destinations d’aventure ne sont pas les huit positions de la carte perforée. La destination finale reste fixée avant la partie : dans l’exemple de préparation, c’est le **repère MJ 17**, sous une borne ordinaire. Les supports graphiques doivent encore être ajustés à la carte réellement utilisée.
+
+## Les huit pistes
+
+| Destination | Environnement | Objectif local |
+| --- | --- | --- |
+| [Valombre](../zones/grande-ville/Scenario.md) | Grande ville | Rendre à Grum son caillou, enfermé à la consigne 12 de la banque. |
+| [Tilverton](../zones/village/Scenario.md) | Village | Remettre du vrai grain dans l’auge et rouvrir la grange. |
+| [Cormanthor](../zones/foret/Scenario.md) | Forêt | Détacher la corde qui irrite la racine de Maître Feuillu et dégager le sentier. |
+| [Le Grand Marais](../zones/marecage/Scenario.md) | Marécage | Chasser le crapaud-buffle du gué pour rouvrir le passage. |
+| [L’Échine du Dragon](../zones/montagne/Scenario.md) | Montagne | Faire quitter le col à Brûlot pour rouvrir la route. |
+| [La Sembie](../zones/plaine/Scenario.md) | Plaine | Arrêter le chariot de blé avant qu’il atteigne l’étang. |
+| [L’Anauroch](../zones/desert/Scenario.md) | Désert | Immobiliser le chariot enchanté qui entraîne l’oasis vers une pente. |
+| [La côte de la Mer de Lune](../zones/plage/Scenario.md) | Plage | Ramener le coffre de Barbe-de-Sel sur le sable sec. |
+
+Malépine donne ces huit noms librement, puis détaille les pistes demandées. Aucun ordre de visite, aucune distance imposée. Après une résolution, il rappelle les lieux encore inexplorés si le groupe hésite. Les voyages se racontent en une ou deux phrases.
+
+## Ce que sait Malépine
+
+Il connaît les rumeurs publiques et les trois types de documents, mais pas les codes, la clé, le mot recherché ni la position finale. Il explique l’alignement et la superposition des supports déjà obtenus. Avec la notice fournie par le MJ, il peut aider à déchiffrer une lettre ; il laisse le groupe choisir la réponse.
+
+Il coopère dès le départ, sans condition de preuve ni flatterie. Son orgueil fournit les plaisanteries ; il ne retient pas une information utile.
+
+## Pour le MJ : pourquoi le mage est coincé
+
+Malépine est entré par téléportation dans un laboratoire dissimulé par un architecte gobelin. Un réglage raté a verrouillé sa sortie et activé une barrière de sécurité. Il a perdu son relevé d’accès extérieur ; sa projection fonctionne encore.
+
+Cet accident reste confiné au laboratoire. Les poules bavardes, le chêne parlant, les épouvantails agricoles et l’oasis mobile ont leur propre histoire locale. Aucun objet à rassembler ne les relie. Les héros cherchent seulement les documents permettant de retrouver le mage.
+
+Une fois l’entrée trouvée, un levier clairement indiqué libère Malépine sans nouvelle épreuve. Voir la [conclusion](Final.md). Si les joueurs découvrent le lieu plus tôt par une bonne idée, respecter leur découverte.

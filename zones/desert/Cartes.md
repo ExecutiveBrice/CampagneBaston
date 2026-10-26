@@ -14,6 +14,6 @@ Une oasis 50 × 45 pour installer la rencontre avec le génie.
 
 ## Utilisation pour notre scénario
 
-Ajouter un jeton de tente, le chariot et la lampe. Le déplacement de l’oasis est narratif : l’image n’a pas à comporter des patins. Annoncer la pente à l’approche, puis immobiliser le décor lorsque les héros retirent le bouchon.
+Ajouter un jeton de tente, le chariot et la lampe avec son levier rouge visible. Le déplacement de l’oasis est narratif : l’image n’a pas à comporter des patins. Annoncer la pente, puis immobiliser le décor lorsque les héros actionnent le frein ou calent un patin.
 
 Garder les informations secrètes sur un exemplaire MJ. Ces adaptations sont des conseils de mise en scène, sans modification des règles ou du scénario canonique. Les trois indices communs restent indépendants de ce plan local.

@@ -1,23 +1,55 @@
 # Forêt : le chêne a les glands
 
-[Zones](../README.md) · [Scénario](Scenario.md) · [PNJ](PNJ.md) · [Monstres](Monstres.md) · [Objets](Objets.md)
+[Zones](../README.md) · [Personnages](characters/) · [Bestiaire](Monstres.md) · [Équipement](Objets.md) · [Cartes](Cartes.md)
 
-Préparation commune : [règles](../../campagne/Regles.md), [mission](../../campagne/Mission.md) et [indices](../../indices/Indices.md). Les références à des numéros de chapitre dans le texte correspondent au [sommaire](../../campagne/README.md).
+Préparation : [mission](../../campagne/Mission.md), [règles](../../campagne/Regles.md) et [trois indices](../../indices/Indices.md).
 
-[Cartes conseillées et adaptations](Cartes.md).
+**Destination : Cormanthor. Durée : 30 à 40 minutes, puis 3 à 5 minutes pour l’indice.**
 
-**Lieux :** sentier, chêne monumental, fossé, clairière de racines. **Fragment :** coincé dans l’écorce du chêne.
+## Objectif immédiat
 
-**Accroche.** Une branche barre la route. Une pancarte indique : « Péage : 2 pièces par bipède. Supplément capuche mystérieuse. » Un écureuil emporte une botte sous vos yeux.
+Détacher la corde qui irrite la racine de Maître Feuillu et dégager le sentier.
 
-**Indices.** Les pièces finissent dans un trou sans utilité pour l’arbre. Une corde attachée à une racine est reliée à une clochette. L’impresario Sylvandre tire sur cette corde pour entretenir l’irritation du chêne ; le fragment lui a donné la parole, mais le faux elfe lui a inventé ce commerce.
+**Lieux :** Sentier, chêne, corde à clochette et fossé latéral.
 
-**Déroulement.** Le péage mène à un débat sur les besoins d’un arbre. Pendant qu’on parle, les écureuils tentent de saisir des objets. Les héros peuvent inspecter la racine, parler à la dryade et décider s’ils aident le chêne ou contournent l’obstacle.
+## À lire à l’arrivée
 
-**Trois approches.** Dénoncer la manipulation et libérer la racine ; proposer de remplacer le péage par un échange de chansons et retirer l’éclat irritant ; contourner par le fossé puis accéder à l’écorce depuis la clairière arrière. Un passage en force oppose le groupe à des racines qui entravent et à deux écureuils casqués : faire tomber la clochette met fin à la mêlée.
+> Une branche barre le chemin. Un homme aux oreilles pointues réclame un péage pendant qu’un écureuil tente de saisir une botte.
 
-**Obtention.** L’arbre peut écarter son écorce pour donner l’éclat. Par l’arrière, un outil plat permet de le dégager sans blesser le tronc. La dryade veille à ce que l’extraction soit sûre.
+## Pour le MJ
 
-**Sortie express.** Une nouvelle secousse de la corde la rend visible à tous. Le chêne comprend la tromperie et demande aux héros d’enlever l’éclat ; il exige que Sylvandre remballe sa caisse avec les dents.
+Feuillu est un vieux chêne parlant. Sylvandre, un faux elfe, tire une corde sur sa racine pour le garder en colère et encaisser le péage. La corde est visible depuis le sentier.
 
-**Indice cartographique gagné — support successif.** Myrtille remet le document conservé près du chêne ; celui-ci peut l’offrir lui-même. Le MJ remet le support 1, 2 ou 3 selon le nombre de scénarios déjà résolus ; le document n’est pas propre à cette zone. « C’est un plan de secours. Il a déjà pris racine. »
+Myrtille montre la corde et dit simplement : « Enlevez-moi ce nœud, il redeviendra fréquentable. » Pas besoin de démasquer le faux elfe avant d’agir.
+
+## Agir tout de suite
+
+Rejoindre la racine par le fossé et dénouer ou couper la corde. Une idée adaptée suffit ; un test éventuel sert seulement à éviter de se faire entraver.
+
+## Combat court
+
+Pour passer directement, affronter la ronce agrippeuse (LOC-08), **un massif pour tout le groupe**. Elle fouette et retient les intrus ; couper la corde la calme immédiatement. Pour une bagarre plus légère, le MJ peut la remplacer par les écureuils casqués (LOC-07), 1 patrouille pour 4–5 joueurs, 2 pour 6–8. Ne pas cumuler les deux oppositions.
+
+Utiliser les PV et DM du bestiaire, ou la variante express des règles communes ; choisir avant la scène. Les attaques et les résultats restent arbitrés par le MJ.
+
+## Solution sans combat
+
+Montrer la corde à Feuillu suffit : il écarte ses branches. Sylvandre abandonne son péage dès que son truc est exposé ; aucun procès forestier.
+
+## Une place pour chacun
+
+Certains retiennent les branches ou la ronce, un autre atteint le nœud, d’autres récupèrent les bottes ou empêchent la caisse de rouler.
+
+## Résolution et sortie express
+
+Feuillu libère le sentier. Sylvandre fuit ou rend sa caisse, au choix du MJ. On ne prélève rien dans l’arbre.
+
+**Si le temps presse :** Après une tentative, un nouveau coup sur la corde fait tinter la clochette ; le nœud est à portée d’un outil tendu depuis le fossé.
+
+## Le prochain indice
+
+Myrtille remet le document gardé à l’abri dans une cavité du chêne. Si elle est absente, Feuillu indique la cavité dès que sa racine est libérée.
+
+Le MJ place ici le **support 1, 2 ou 3**, selon le nombre de scénarios déjà résolus : carte perforée, calque, puis notice. Ce document est gratuit, indépendant des achats et des objets de récompense. Une défaite des héros ne le détruit pas : la sortie express permet une nouvelle tentative ou un accès après la complication. Les joueurs peuvent aussi quitter cette zone et en choisir une autre.
+
+Trois zones quelconques suffisent ; aucun ordre de visite imposé.

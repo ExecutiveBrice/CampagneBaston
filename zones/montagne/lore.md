@@ -1,10 +1,24 @@
 # Montagne : atchoum, vous êtes cuits
 
-**Lieux :** col, corniche, grotte, dépôt de provisions.
+## Lieux connus
 
-**À l'arrivée :** Un souffle brûlant carbonise le sandwich d'un voyageur. Un jeune dragon enrhumé s'excuse depuis la grotte.
+- Le Col
+- L'abris rocheux
+- La grotte
+- Le replat
 
-Ces éléments décrivent l'arrivée, pas un état permanent. Les mises à jour
-du MJ remplacent cet état. Évoque seulement ce que tu peux observer ; tu ne
-connais ni les confidences des autres PNJ ni les solutions du scénario.
-Le décor n'autorise aucune narration : réponds avec tes seules paroles.
+## Organisation
+
+- Barnabé est le maire du village
+- Cocoric coq armé
+- Gertrude cheffe des poules
+- Huguette aubergiste
+
+## Situation connue de tous
+
+- Un éternuement brûlant carbonise un sandwich.
+- Brûlot campe au milieu du passage avec un gros rhume.
+
+## Limites des informations disponibles
+
+- Tout le monde se connait au village.

@@ -1,6 +1,6 @@
 # Monstres — Plaine
 
-[Zones](../README.md) · [Scénario](Scenario.md) · [PNJ](PNJ.md) · [Monstres](Monstres.md) · [Objets](Objets.md)
+[Zones](../README.md) · [Scénario](Scenario.md) · [Personnages](characters/) · [Monstres](Monstres.md) · [Récompense](characters/gaspard.md#objets-associés--effets-exacts)
 
 Lire les [règles communes](../../campagne/Regles.md) et la légende du [bestiaire général](../commun/Monstres.md) avant d’utiliser les valeurs.
 
@@ -18,7 +18,7 @@ Lire les [règles communes](../../campagne/Regles.md) et la légende du [bestiai
 
 **Armure et protection :** Paille et habits épais (+2 dans la DEF), déjà comprises dans DEF 12 ; aucun bouclier ni réduction de DM supplémentaires.
 
-**Capacité et seuil de fin :** Une action d’attaque ciblant l’attache du bras, DEF 10, le désarme sans DM. L’accord avec le meneur ou le retrait du bouton le rend inoffensif.
+**Capacité et seuil de fin :** Une action d’attaque ciblant l’attache du bras, DEF 10, le désarme sans DM. L’accord avec le meneur ou l’arrêt du chariot met fin à son opposition.
 - Nombre : 2 / 3.
 - Comportement et danger : Fait de paille et de vieux habits, il brandit un râteau et cherche à écarter les intrus du chariot. Il obéit au meneur ; pas de dialogue IA supplémentaire.
 - Pour contourner la menace : Une promesse de mise à l’abri ou un chapeau convenable le fait hésiter. Couper une attache de son bras le désarme.

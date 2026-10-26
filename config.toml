@@ -5,7 +5,7 @@ checkpoint_every_turns = 20
 
 [llm]
 backend = "ollama"
-model = "mistral-nemo:12b"
+model = "ministral-3:8b"
 host = "http://localhost:11434"
 stream = true
 num_ctx = 8192

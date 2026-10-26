@@ -1,37 +1,29 @@
 # Le final — le laboratoire sous la borne
 
-[Accueil](../README.md) · [Correspondance des chapitres](../campagne/README.md) · [Archibald](../zones/commun/characters/archibald.md)
+[Accueil](../README.md) · [Sommaire](README.md) · [Malépine](../zones/commun/characters/archibald.md)
 
-**Durée : 5 à 10 minutes après le troisième indice et son décodage.** Le groupe annonce la position trouvée. Dans l’exemple de préparation, la destination est fixée au repère MJ 17 ; elle ne se déplace pas vers les héros. Retrouver cette entrée accomplit la mission principale.
+**Durée : 5 à 10 minutes.** Le groupe annonce la position trouvée grâce aux indices, puis s’y rend. Dans l’exemple, c’est le repère MJ 17. La destination reste fixe.
 
-### Arrivée
+## Arrivée
 
-Le trajet est raconté en une ou deux phrases. Au point indiqué, une borne ordinaire porte une minuscule plaque : « Laboratoire secret. Visites sur rendez-vous ou catastrophe. » Une poignée ouvre un escalier vers le vestibule. Ni jet d’ouverture ni clé supplémentaire : l’énigme de localisation était l’épreuve d’accès.
+Une borne ordinaire porte une petite plaque : « Laboratoire secret. Visites sur rendez-vous ou catastrophe. » La poignée ouvre l’escalier. Aucun jet ni clé supplémentaire : retrouver cette entrée accomplit la quête.
 
-Si les héros avaient déjà visité les environs, la borne leur avait paru banale. S’ils l’ont effectivement inspectée et trouvée auparavant, respecte leur découverte. Deux indices laissent encore quatre candidats : un groupe qui choisit de les fouiller peut trouver le laboratoire avant le troisième scénario. Trois indices donnent une localisation certaine sans tâtonnement ; ce n’est pas un verrou artificiel empêchant les bonnes idées.
+Si les héros ont trouvé la borne plus tôt en fouillant les candidats, respecter leur découverte. Le troisième indice rend la solution certaine ; il n’interdit pas les bonnes idées.
 
-### Retrouvailles
+## Libérer Malépine
 
-Archibald attend derrière une barrière lumineuse, dans la salle principale. Son attache l’empêche d’atteindre la commande du vestibule, accessible aux héros.
+Le mage attend derrière une barrière lumineuse, hors de portée de la commande du vestibule.
 
-> « Vous avez trouvé ! Je savais que mon classement géographique finirait par fonctionner. Avec quelques personnes supplémentaires à l’extérieur. »
->
-> Le pupitre affiche : « Incident de dissimulation. Sortie de secours : côté visiteurs. »
->
-> « Abaissez le levier SÉCURITÉ. Oui, le gros. J’avais demandé une commande discrète ; l’architecte a préféré une commande utile. »
+> « Vous avez trouvé ! Le levier SÉCURITÉ est à votre gauche. Le gros. Mon architecte avait prévu que quelqu’un finirait par lire une étiquette. »
 
-Archibald coopère sans condition. Le levier est lisible et fonctionne sans jet : il libère le mage et arrête les enchantements défaillants. Aucun fragment local n’est requis. Il n’y a ni nouvel objet à chercher, ni énigme supplémentaire, ni combat obligatoire.
+Un héros abaisse le levier sans jet : la barrière s’éteint et le mage sort. Pas de nouvel objet, de nouvelle énigme ou de combat imposé.
 
-### Une conclusion collective, si le groupe le souhaite
+Pour faire participer le groupe, d’autres héros peuvent guider le mage, tenir la porte, récupérer les papiers envolés ou lui demander des comptes. Si le temps manque, raconter directement la libération.
 
-Pour donner une dernière contribution à plusieurs héros, le MJ peut proposer de tenir le levier, de tourner la manivelle de décharge et de guider Archibald parmi les papiers envolés. Les autres lisent les voyants, dégagent le passage ou demandent des explications au mage. Les idées cohérentes fonctionnent ; cette courte scène ne conditionne ni la réussite de l’enquête ni le paiement.
+## Récompense
 
-Une maladresse provoque seulement une plaisanterie temporaire : chaussures qui caquettent, chapeau qui fait l’appel ou formulaire qui exige sa propre signature. La sécurité finit son travail sans jet supplémentaire. Si le temps manque, le MJ raconte directement la libération.
+La Guilde verse **30 PO par héros** pour le laboratoire retrouvé. Les **20 PO de frais communs** étaient une bourse distincte. Malépine promet désormais de conserver son adresse sur une fiche, puis demande où il a posé la fiche.
 
-### Conclusion
+Les êtres parlants et les enchantements locaux continuent d’exister. Les objets conservés restent utilisables selon leurs descriptions, et les promesses faites aux habitants restent valables.
 
-La mise en sécurité restaure les victimes des anomalies et désactive tous les éclats locaux, visités ou non. Les objets déplacés restent à leur place et les promesses faites aux habitants restent valables. La Guilde verse **30 pièces d’or par héros**, depuis le compte séquestre, pour le laboratoire retrouvé ; les **20 PO de frais communs** étaient une bourse distincte. Archibald doit rembourser les dégâts.
-
-Les objets conservés par les héros restent utilisables dans les limites de leur description ; les enchantements autonomes ne sont pas désactivés avec les éclats.
-
-Le groupe devient officiellement la **Compagnie des Huit Catastrophes, département de la Cartographie Approximative**.
+Le groupe devient la **Compagnie des Huit Catastrophes, département de la Cartographie Approximative**.

@@ -1,23 +1,55 @@
 # Grande ville : retrait refusé, troll énervé
 
-[Zones](../README.md) · [Scénario](Scenario.md) · [PNJ](PNJ.md) · [Monstres](Monstres.md) · [Objets](Objets.md)
+[Zones](../README.md) · [Personnages](characters/) · [Bestiaire](Monstres.md) · [Équipement](Objets.md) · [Cartes](Cartes.md)
 
-Préparation commune : [règles](../../campagne/Regles.md), [mission](../../campagne/Mission.md) et [indices](../../indices/Indices.md). Les références à des numéros de chapitre dans le texte correspondent au [sommaire](../../campagne/README.md).
+Préparation : [mission](../../campagne/Mission.md), [règles](../../campagne/Regles.md) et [trois indices](../../indices/Indices.md).
 
-[Cartes conseillées et adaptations](Cartes.md).
+**Destination : Valombre. Durée : 30 à 40 minutes, puis 3 à 5 minutes pour l’indice.**
 
-**Lieu :** une banque de Valombre ; accueil, guichet, archives, coffre de consigne. **Fragment :** la pièce brillante au milieu du porte-bonheur de Grum.
+## Objectif immédiat
 
-**Accroche.** Un troll est assis devant la banque et bloque la porte. « Ils ont pris caillou de Grum. Grum prend porte. Justice. » Un employé lui a confisqué son porte-bonheur, jugé être une garantie bancaire acceptable.
+Rendre à Grum son caillou, enfermé à la consigne 12 de la banque.
 
-**Ce que les joueurs peuvent découvrir.** Le caillou est à la consigne 12. Le reçu de dépôt stipule « restitution contre identification OU témoignage du dépositaire ». Le directeur a essayé de requalifier le dépôt en paiement de frais. Une petite ligne permet aussi une récupération physique de l’objet si le déposant le reconnaît devant témoin.
+**Lieux :** Entrée, guichet et consigne 12. Les autres salles restent du décor.
 
-**Déroulement.** La foule s’impatiente. Une gobeline coursière connaît l’accès des archives. À l’intérieur, le directeur transforme la discussion en parcours administratif. Après deux demandes absurdes, Grum annonce qu’il va retirer la façade. Les héros ont alors une seule scène pour résoudre l’affaire.
+## À lire à l’arrivée
 
-**Trois approches.** Faire reconnaître le reçu et témoigner ; entrer dans les archives par une fenêtre puis ouvrir la consigne avec la clé du directeur ; convaincre le directeur que la publicité « banque qui vole les trolls » coûtera plus cher que la restitution. Une confrontation peut opposer les héros à deux armures de guichet enchantées : leur faire tamponner le bon reçu les immobilise.
+> Un troll bouche la porte de la banque. « Grum veut caillou. Banque veut frais. Grum veut pas casser banque… tout de suite. »
 
-**Obtention.** Grum récupère son caillou et détache lui-même l’éclat brillant en remerciement : « Caillou moins joli. Mais banque moins debout aussi, si Grum veut. » Il garde son vrai souvenir et les héros reçoivent le fragment.
+## Pour le MJ
 
-**Sortie express.** La caissière applique la clause de restitution devant témoin. Les héros signent comme témoins ; la banque leur envoie ensuite une facture ridicule, sans pouvoir bloquer leur départ.
+Pincefonds retient un souvenir sans valeur marchande pour facturer des frais imaginaires. Berta sait ouvrir la consigne ; aucune enquête sur les règlements n’est nécessaire.
 
-**Indice cartographique gagné — support successif.** Berta remet un document conservé dans les archives de la banque ; Zib peut le récupérer si nécessaire. Le MJ remet le support 1, 2 ou 3 selon le nombre de scénarios déjà résolus ; le document n’est pas propre à cette zone. « Formulaire d’adresse. Les trous ne sont pas remboursables. »
+Berta montre le reçu de Grum et la consigne 12 dès qu’on propose d’aider. Pincefonds refuse une fois, puis les joueurs choisissent comment récupérer le dépôt.
+
+## Agir tout de suite
+
+Passer le guichet et ouvrir la consigne avec la clé de Berta, qu’elle prête gratuitement. Grum reconnaît son bien sans jet.
+
+## Combat court
+
+Les héros peuvent affronter les armures de guichet (LOC-02) pour atteindre la consigne : **1 armure pour 4–5 joueurs, 2 pour 6–8**. Elles bloquent le passage et attaquent normalement. Les vaincre ou les dépasser pour rendre le caillou suffit. Berta peut aussi présenter le reçu tamponné pour les mettre en attente. Une seule opposition.
+
+Utiliser les PV et DM du bestiaire, ou la variante express des règles communes ; choisir avant la scène. Les attaques et les résultats restent arbitrés par le MJ.
+
+## Solution sans combat
+
+Montrer le reçu à Pincefonds ou lui proposer une restitution discrète suffit à le faire céder. Une réponse claire termine l’échange ; aucun marchandage de frais.
+
+## Une place pour chacun
+
+Un héros occupe le directeur, d’autres contiennent les armures, ouvrent la consigne ou protègent les clients. Grum ne livre pas le combat à leur place.
+
+## Résolution et sortie express
+
+Grum reprend son caillou et quitte l’entrée. Pincefonds appelle cela une opération promotionnelle. Aucun objet magique supplémentaire à récupérer.
+
+**Si le temps presse :** Après une première tentative des héros, Berta ouvre la consigne de service et indique le passage. Une facture ridicule peut clore la scène, sans paiement imposé.
+
+## Le prochain indice
+
+Berta remet le document conservé avec les reçus. Si elle ne peut pas intervenir, il est visible dans le dossier de la consigne 12. La victoire au combat donne le même accès au document qu’un accord.
+
+Le MJ place ici le **support 1, 2 ou 3**, selon le nombre de scénarios déjà résolus : carte perforée, calque, puis notice. Ce document est gratuit, indépendant des achats et des objets de récompense. Une défaite des héros ne le détruit pas : la sortie express permet une nouvelle tentative ou un accès après la complication. Les joueurs peuvent aussi quitter cette zone et en choisir une autre.
+
+Trois zones quelconques suffisent ; aucun ordre de visite imposé.

@@ -1,10 +1,11 @@
 # Forêt : le chêne a les glands
 
-**Lieux :** sentier, chêne monumental, fossé, clairière de racines.
+**Destination :** Cormanthor.
 
-**À l'arrivée :** Une branche barre le sentier. Une pancarte exige deux pièces par bipède, avec un supplément pour capuche mystérieuse. Un écureuil emporte une botte.
+**Lieux visibles :** Sentier, chêne, corde à clochette et fossé latéral.
 
-Ces éléments décrivent l'arrivée, pas un état permanent. Les mises à jour
-du MJ remplacent cet état. Évoque seulement ce que tu peux observer ; tu ne
-connais ni les confidences des autres PNJ ni les solutions du scénario.
-Le décor n'autorise aucune narration : réponds avec tes seules paroles.
+**À l’arrivée :** Une branche barre le chemin. Un homme aux oreilles pointues réclame un péage pendant qu’un écureuil tente de saisir une botte.
+
+Ces éléments décrivent l’arrivée, pas un état permanent. Les mises à jour du MJ remplacent cet état. Les êtres parlants et les enchantements font partie du merveilleux local.
+
+Évoque seulement ce que ton personnage peut observer ou sait par sa fiche. Ce contexte ne donne ni les secrets des autres PNJ ni la solution de la scène. Réponds avec tes seules paroles, sans raconter le décor ou tes actions.

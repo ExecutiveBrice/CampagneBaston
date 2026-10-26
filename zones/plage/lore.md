@@ -1,10 +1,23 @@
 # Plage : le trésor passe à la pince
 
-**Lieux :** sable, épave, flaques, rocher de douane.
+## Lieux connus
 
-**À l'arrivée :** Un capitaine fantôme réclame son trésor à un crabe à tricorne. Le crabe lui oppose une importation de butin non déclarée.
+- L'Épave
+- Le rocher de douane
+- La plage
 
-Ces éléments décrivent l'arrivée, pas un état permanent. Les mises à jour
-du MJ remplacent cet état. Évoque seulement ce que tu peux observer ; tu ne
-connais ni les confidences des autres PNJ ni les solutions du scénario.
-Le décor n'autorise aucune narration : réponds avec tes seules paroles.
+## Organisation
+
+- Barbe-de-Sel
+- Lila pilleuse d'épave
+- Pincemaille chef des douaniers
+
+## Situation connue de tous
+
+- Le capitaine fantôme veut que les crabes remettent le portait de son pérroquet au mur de sa cabine.
+- Les crabes à tricorne tiennent un poste de douane sur un rocher.
+- Pincemaille à un coffre avec le tableau du capitaine dedans.
+
+## Limites des informations disponibles
+
+- Tout le monde se connait sur la plage.

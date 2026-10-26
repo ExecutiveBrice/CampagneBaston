@@ -1,5 +1,13 @@
 # Historique de la campagne
 
+## 2026-10-23 — Scènes directes et combats courts
+
+- Réécriture des huit scénarios autour d’un objectif concret, d’une action immédiate, d’un combat court possible et d’une solution sans combat ; moins de négociations et aucun entretien obligatoire avec tous les PNJ.
+- Simplification des 32 fiches locales et de Malépine ; informations utiles données librement, motivations courtes et fin de l’opposition respectée après une victoire.
+- Suppression de l’ancienne collecte magique dans les sources jouées ; les êtres parlants et les enchantements appartiennent désormais à leur lieu. Mission et conclusion centrées sur les trois documents et le laboratoire.
+- Lore, conditions de fin du bestiaire, usages et récompenses d’équipement, conseils de plans et index harmonisés. Identifiants, valeurs de combat, effets chiffrés et codes des indices conservés ; progression 8 → 4 → 1 maintenue.
+- Catalogues absents signalés, liens de navigation adaptés aux fiches présentes ; transcriptions et anciennes entrées d’historique conservées.
+
 ## 2026-10-23 — Quête du laboratoire et aide de Malépine
 
 - Quête principale recentrée sur le laboratoire à retrouver grâce aux trois indices ; retrait de l’ancien artefact et de l’intrigue de souhait caché. Les éclats restent les causes des incidents locaux, issus d’un accident des enchantements du laboratoire.

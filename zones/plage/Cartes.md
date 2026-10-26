@@ -14,6 +14,6 @@ Une épave et du sable dégagé : une correspondance directe avec le capitaine f
 
 ## Utilisation pour notre scénario
 
-Désigner un rocher comme poste de douane et une dalle comme emplacement du coffre. La marée reste douce et la dalle accessible à pied. Ne pas reprendre les règles de vagues dangereuses suggérées dans l’article : elles ne correspondent pas au scénario de la campagne.
+Désigner un rocher comme poste de douane et une dalle comme emplacement du coffre. Montrer le trajet vers le sable sec, où les crabes cessent la poursuite. La dalle reste accessible à pied ; la marée douce n’ajoute ni nage ni complication de vagues.
 
 Garder les informations secrètes sur un exemplaire MJ. Ces adaptations sont des conseils de mise en scène, sans modification des règles ou du scénario canonique. Les trois indices communs restent indépendants de ce plan local.

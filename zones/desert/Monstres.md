@@ -1,6 +1,6 @@
 # Monstres — Désert
 
-[Zones](../README.md) · [Scénario](Scenario.md) · [PNJ](PNJ.md) · [Monstres](Monstres.md) · [Objets](Objets.md)
+[Zones](../README.md) · [Scénario](Scenario.md) · [Personnages](characters/) · [Monstres](Monstres.md) · [Objets](Objets.md)
 
 Lire les [règles communes](../../campagne/Regles.md) et la légende du [bestiaire général](../commun/Monstres.md) avant d’utiliser les valeurs.
 
@@ -54,5 +54,5 @@ Lire les [règles communes](../../campagne/Regles.md) et la légende du [bestiai
 
 **Capacité et seuil de fin :** Les armes ordinaires le dispersent normalement. Fermer les volets de la lampe, arrêter le chariot ou obtenir l’accord d’Azram le dissipe immédiatement.
 - Nombre : 1 / 2.
-- Comportement et danger : Petit élémentaire créé par Azram en cas de prise par la force. Il soulève le sable, fait tourner les papiers et gêne la vue pendant un tour.
+- Comportement et danger : Petit élémentaire de service créé par Azram ; le dérèglement du chariot lui fait défendre la commande contre ceux qui approchent. Il soulève le sable, fait tourner les papiers et gêne la vue pendant un tour.
 - Pour contourner la menace : Fermer les volets de la lampe, arrêter le chariot ou obtenir l’accord du génie le dissipe. Il ne peut ni détruire ni faire disparaître un indice.

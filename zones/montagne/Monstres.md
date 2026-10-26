@@ -1,6 +1,6 @@
 # Monstres — Montagne
 
-[Zones](../README.md) · [Scénario](Scenario.md) · [PNJ](PNJ.md) · [Monstres](Monstres.md) · [Objets](Objets.md)
+[Zones](../README.md) · [Scénario](Scenario.md) · [Personnages](characters/) · [Monstres](Monstres.md) · [Objets](Objets.md)
 
 Lire les [règles communes](../../campagne/Regles.md) et la légende du [bestiaire général](../commun/Monstres.md) avant d’utiliser les valeurs.
 
@@ -52,7 +52,7 @@ Lire les [règles communes](../../campagne/Regles.md) et la légende du [bestiai
 
 **Armure et protection :** Écailles naturelles (+4 dans la DEF), déjà comprises dans DEF 15 ; aucun bouclier ni réduction de DM supplémentaires.
 
-**Capacité et seuil de fin :** Éternuement annoncé : remplace l’attaque, au plus une fois tous les deux rounds. Deux cibles maximum dans un cône de 5 m font AGI difficulté 10 ; chacune subit 1d6 DM de feu, moitié arrondie à l’inférieur si réussite. Une mise à couvert préalable annule les DM. À 17 PV ou moins, Brûlot réclame une trêve. L’extraction du fragment résout la scène sans combat.
+**Capacité et seuil de fin :** Éternuement annoncé : remplace l’attaque, au plus une fois tous les deux rounds. Deux cibles maximum dans un cône de 5 m font AGI difficulté 10 ; chacune subit 1d6 DM de feu, moitié arrondie à l’inférieur si réussite. Une mise à couvert préalable annule les DM. À 17 PV ou moins, Brûlot réclame une trêve. Accepter une boisson et rejoindre la grotte libère aussi le col sans combat.
 - Nombre : 1 / 1.
 - Comportement et danger : C’est le PNJ du scénario, pas un dragon supplémentaire. Son inspiration sifflante annonce un éternuement qui roussit du matériel ou force à se mettre à couvert.
-- Pour contourner la menace : Le calmer, protéger le groupe et extraire l’éclat met fin à la menace. Après un geste brusque, il recule plutôt que de chercher à tuer.
+- Pour contourner la menace : Lui apporter la boisson de Pipo et le guider vers la grotte libère le col. Une trêve à 17 PV ou moins termine également la scène ; il ne réclame aucune autre action.

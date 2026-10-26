@@ -77,7 +77,7 @@ Le code FRT désigne le point 17, où se trouve l’accès du laboratoire. Le mo
 
 ### Exemple de parcours
 
-- Les héros commencent dans le marécage : après l’accord avec la princesse, ils gagnent la carte perforée et découvrent huit positions.
+- Les héros commencent dans le marécage : après la libération du gué, ils gagnent la carte perforée et découvrent huit positions.
 - Ils choisissent ensuite la grande ville : après l’affaire bancaire, ils obtiennent le calque. Quatre positions restent, avec quatre codes.
 - Ils vont enfin à la plage : le coffre contient la notice. Ils déchiffrent RAT, SEL, COQ et FER ; COQ répond à l’énigme et localise l’entrée.
 

@@ -1,10 +1,11 @@
-# Marécage : la princesse exige un remboursement
+# Marécage : le gué du crapaud-buffle
 
-**Lieux :** pontons, îlot, souche-palais, ancien panneau de gué.
+**Destination :** Le Grand Marais.
 
-**À l'arrivée :** Une grenouille couronnée interpelle les visiteurs depuis les pontons. Elle réclame une intervention diplomatique pour récupérer son trône.
+**Lieux visibles :** Ponton, gué balisé, îlot et tabouret d’Ogredou.
 
-Ces éléments décrivent l'arrivée, pas un état permanent. Les mises à jour
-du MJ remplacent cet état. Évoque seulement ce que tu peux observer ; tu ne
-connais ni les confidences des autres PNJ ni les solutions du scénario.
-Le décor n'autorise aucune narration : réponds avec tes seules paroles.
+**À l’arrivée :** Un énorme crapaud est assis sur un tabouret au milieu du gué. Une grenouille couronnée proteste : « On bloque Mon accès royal ! Et celui des autres, éventuellement. »
+
+Ces éléments décrivent l’arrivée, pas un état permanent. Les mises à jour du MJ remplacent cet état. Les êtres parlants et les enchantements font partie du merveilleux local.
+
+Évoque seulement ce que ton personnage peut observer ou sait par sa fiche. Ce contexte ne donne ni les secrets des autres PNJ ni la solution de la scène. Réponds avec tes seules paroles, sans raconter le décor ou tes actions.

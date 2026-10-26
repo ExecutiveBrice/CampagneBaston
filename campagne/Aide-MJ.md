@@ -1,13 +1,21 @@
 # Aide-mémoire du MJ
 
-[Accueil](../README.md) · [Correspondance des chapitres](../campagne/README.md)
+[Accueil](../README.md) · [Sommaire](README.md)
 
-| Ordre de résolution | Récompense cartographique | Manipulation | Possibilités restantes |
-| --- | --- | --- | --- |
-| Premier scénario, n’importe quelle zone | Carte perforée | Aligner les marques de marge sur la carte | 8 |
-| Deuxième scénario, n’importe quelle zone | Calque de sélection et codes | Superposer sur les mêmes marques | 4 |
-| Troisième scénario, n’importe quelle zone | Clé de décodage et énigme | Décoder les quatre mots, choisir celui qui répond | 1 |
+1. Annoncer le problème et l’action utile ; un seul interlocuteur suffit.
+2. Laisser les joueurs agir, ruser, conclure un accord bref ou combattre. Une seule opposition par zone.
+3. Terminer la scène locale en 30 à 40 minutes ; utiliser la sortie express si elle s’enlise.
+4. Remettre gratuitement le prochain document après résolution, quelle que soit l’approche.
+5. Consacrer 3 à 5 minutes à sa manipulation, puis proposer les destinations restantes.
 
-Les scénarios locaux et leurs quatre PNJ restent utilisables. Les éclats règlent les incidents ; les trois documents révèlent le lieu final. Un scénario ne possède pas son indice attitré. Après une résolution, le MJ remet simplement le prochain support.
+| Ordre | Document | Possibilités restantes |
+| --- | --- | --- |
+| Première zone | Carte perforée | 8 |
+| Deuxième zone | Calque et codes | 4 |
+| Troisième zone | Notice et énigme | 1 |
 
-Retrouver l’entrée du laboratoire accomplit la mission ; la libération du mage est une courte conclusion sans épreuve obligatoire. Malépine aide dès le départ : il présente les [huit destinations nommées](Mission.md#les-huit-pistes), rappelle les pistes encore ouvertes et explique la manipulation des supports déjà obtenus, sans choisir la réponse à la place des joueurs. Les huit zones proposées ne sont pas les huit positions candidates de la carte perforée.
+Malépine présente les [huit destinations](Mission.md#les-huit-pistes) et aide sur la méthode, sans choisir la réponse. Trois zones quelconques suffisent.
+
+Une victoire au combat n’impose pas une négociation supplémentaire pour récupérer le document. Le bestiaire donne les PV, les attaques et les seuils de repli. Choisir les PV ou la variante express avant la scène.
+
+L’entrée du laboratoire trouvée, la mission est accomplie. Le levier de sécurité libère le mage sans nouvelle épreuve ; les habitants merveilleux des zones restent ce qu’ils sont.

@@ -1,6 +1,6 @@
 # Monstres — Marécage
 
-[Zones](../README.md) · [Scénario](Scenario.md) · [PNJ](PNJ.md) · [Monstres](Monstres.md) · [Objets](Objets.md)
+[Zones](../README.md) · [Scénario](Scenario.md) · [Personnages](characters/) · [Monstres](Monstres.md) · [Objets](Objets.md)
 
 Lire les [règles communes](../../campagne/Regles.md) et la légende du [bestiaire général](../commun/Monstres.md) avant d’utiliser les valeurs.
 
@@ -52,7 +52,7 @@ Lire les [règles communes](../../campagne/Regles.md) et la légende du [bestiai
 
 **Armure et protection :** Peau épaisse (+1 dans la DEF), déjà comprises dans DEF 12 ; aucun bouclier ni réduction de DM supplémentaires.
 
-**Capacité et seuil de fin :** Peut remplacer la morsure par une projection de boue à 5 m, attaque +2, DM 0 : −2 au prochain test d’attaque de la cible si touchée. S’essuyer avec une action de mouvement retire ce malus. Quitter son îlot le calme.
+**Capacité et seuil de fin :** Peut remplacer la morsure par une projection de boue à 5 m, attaque +2, DM 0 : −2 au prochain test d’attaque de la cible si touchée. S’essuyer avec une action de mouvement retire ce malus. À 5 PV ou moins, se replie sur l’îlot et libère le gué ; l’attirer vers cet îlot avec un appât obtient le même résultat.
 - Nombre : 1 / 1.
-- Comportement et danger : Gros comme un chien, territorial mais peu mobile. Il gonfle ses joues et projette une boule de boue : un héros doit s’essuyer avant de viser précisément.
-- Pour contourner la menace : Lui laisser son îlot ou faire un bruit plus grave que lui le convainc de s’écarter. Ne comprend pas de conversation complexe.
+- Comportement et danger : Gros comme un chien, territorial et installé sur le tabouret qui bloque le gué. Il gonfle ses joues et projette une boule de boue : un héros doit s’essuyer avant de viser précisément.
+- Pour contourner la menace : L’attirer vers l’îlot libre avec les appâts d’Ogredou ou le repousser avec des planches libère le passage. Ne comprend pas de conversation complexe.

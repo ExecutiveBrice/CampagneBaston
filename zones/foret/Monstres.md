@@ -1,6 +1,6 @@
 # Monstres — Forêt
 
-[Zones](../README.md) · [Scénario](Scenario.md) · [PNJ](PNJ.md) · [Monstres](Monstres.md) · [Objets](Objets.md)
+[Zones](../README.md) · [Scénario](Scenario.md) · [Personnages](characters/) · [Monstres](Monstres.md) · [Objets](Objets.md)
 
 Lire les [règles communes](../../campagne/Regles.md) et la légende du [bestiaire général](../commun/Monstres.md) avant d’utiliser les valeurs.
 
@@ -21,7 +21,7 @@ Lire les [règles communes](../../campagne/Regles.md) et la légende du [bestiai
 **Capacité et seuil de fin :** À la place des DM, peuvent tenter de saisir un objet léger accessible avec le même test d’attaque. Rendent les objets contre de vraies noix ; se dispersent à 2 PV.
 - Nombre : 1 patrouille / 2 patrouilles.
 - Comportement et danger : Deux écureuils portent des casques de glands. Ils subtilisent un objet léger puis grimpent ; leurs jets de noisettes distraient sans dégâts sérieux.
-- Pour contourner la menace : Des noix véritables les font négocier. La découverte des fausses noisettes de Sylvandre met fin à leur zèle.
+- Pour contourner la menace : Des noix véritables les font négocier. La corde détachée et le passage rouvert mettent fin à leur zèle.
 
 **Ronce agrippeuse.**
 
@@ -37,7 +37,7 @@ Lire les [règles communes](../../campagne/Regles.md) et la légende du [bestiai
 
 **Capacité et seuil de fin :** Peut remplacer les DM par une entrave empêchant seulement le déplacement. Une action d’attaque et FOR ou AGI difficulté 10 libère ; substituer une branche à la prise suffit sans jet. Se calme si la racine du chêne est détendue.
 - Nombre : 1 massif / 1 massif élargi.
-- Comportement et danger : Une ronce animée par l’éclat retient vêtements et sacs. Un échec immobilise jusqu’à ce qu’un camarade aide ou qu’on dégage le tissu.
+- Comportement et danger : Une ronce enchantée liée au vieux chêne retient vêtements et sacs. Un échec immobilise jusqu’à ce qu’un camarade aide ou qu’on dégage le tissu.
 - Pour contourner la menace : Passer une longue branche devant elle lui donne une prise de substitution. Détendre la racine tendue du chêne la calme.
 
 **Limace colle-semelles.**
