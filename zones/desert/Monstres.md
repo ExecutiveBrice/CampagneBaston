@@ -52,7 +52,12 @@ Lire les [règles communes](../../campagne/Regles.md) et la légende du [bestiai
 
 **Armure et protection :** Cohésion élémentaire (+1 dans la DEF), déjà comprises dans DEF 13 ; aucun bouclier ni réduction de DM supplémentaires.
 
-**Capacité et seuil de fin :** Les armes ordinaires le dispersent normalement. Fermer les volets de la lampe, arrêter le chariot ou obtenir l’accord d’Azram le dissipe immédiatement.
-- Nombre : 1 / 2.
-- Comportement et danger : Petit élémentaire créé par Azram en cas de prise par la force. Il soulève le sable, fait tourner les papiers et gêne la vue pendant un tour.
-- Pour contourner la menace : Fermer les volets de la lampe, arrêter le chariot ou obtenir l’accord du génie le dissipe. Il ne peut ni détruire ni faire disparaître un indice.
+**Capacité et seuil de fin :** Les armes ordinaires le dispersent normalement à 0 PV. Fermer les deux volets de la lampe, bloquer les deux patins du chariot ou obtenir l’accord d’Azram dissipe tous les tourbillons. Un seul volet ou patin ne suffit pas ; un enlisement accidentel ne coupe pas l’alimentation.
+- Nombre : 2 / 3 ; aucun renfort ni retour des créatures vaincues.
+- Comportement et danger : Petit élémentaire créé par Azram après une attaque ou une prise de force annoncée. Porte un tampon « REFUSÉ », soulève le sable et fait tourner les papiers ; ces descriptions n’ajoutent pas de malus automatique aux DM.
+- Tactique : Protège la lampe, se répartit avec les autres entre les héros debout ; ne poursuit pas les fuyards et ne frappe pas les personnages à terre. Azram n’a pas d’attaque supplémentaire.
+- Actions sur le décor : Une action par volet ou patin ; sous pression, AGI difficulté 12 pour fermer un volet, FOR difficulté 12 pour bloquer un patin avec un outil. Un allié qui occupe l’ennemi et une méthode adaptée permettent de réussir sans jet. Un échec perd seulement l’action ; les manipulations réussies restent acquises. Voir [le scénario](Scenario.md) pour les outils gratuits et les exemples.
+- Moral : À partir du troisième round, si un tourbillon a été vaincu, un volet fermé ou un patin bloqué, Azram propose une trêve avec remise du bouchon. Si elle est refusée, les PV restants sont conservés. Après dissipation de tous les tourbillons, il capitule sans nouvelle négociation.
+- Butin : Aucun butin propre ; la victoire donne accès au bouchon et à son fragment. Le ticket OBJ-33 dépend d’une réconciliation, jamais l’indice cartographique.
+- Variante express, à la place des PV : Chaque tourbillon disparaît après une attaque réussie contre sa DEF. Ne pas mélanger les deux modes.
+- Pour contourner la menace : Obtenir un accord avant toute prise de force évite entièrement le combat. Pendant celui-ci, les actions sur les volets ou patins permettent de gagner sans vaincre tous les adversaires aux armes. Aucun tourbillon ne peut détruire ni faire disparaître un indice.

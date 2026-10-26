@@ -2,14 +2,14 @@
 
 **Identifiant :** DESERT-01. **Zone :** desert. **Rôle :** principal.
 
-- Récompense supplémentaire possible : Ticket de vœu très limité. Azram, après résiliation ou accord sur son nouveau métier. Son effet figure au tableau des objets de la zone. Attendre la validation du MJ avant de la déclarer remise ; elle ne remplace pas l’indice cartographique.
+- Récompense supplémentaire possible : Ticket de vœu très limité. Azram, après résiliation, accord sur son nouveau métier, ou réconciliation accompagnée d’une réparation volontaire sur place après la baston. Son effet figure au tableau des objets de la zone. Attendre la validation du MJ avant de la déclarer remise ; elle ne remplace pas l’indice cartographique.
 - Scénario : Désert : le génie du forfait illimité
 - Identité : génie commercial. Voix chaleureuse, ronde, débit de vendeur trop enthousiaste.
 - Attitude : Bavard, anxieux.
 - Motivation : Avoir des clients et une fonction reconnue.
 - Levier de négociation : Discuter une clause précise ou lui proposer un métier reconnu dans un accord de libération.
 - Sait et annonce : il possède le fragment dans le bouchon ; ses prestations ont des conditions.
-- Réactions : à une objection précise, concède ; à une offre de métier, écoute ; à une tentative de vol, déclenche les tourbillons sans blesser volontairement. Il respecte un accord de libération.
+- Réactions : à une contradiction précise du contrat, accepte la résiliation et la remise du bouchon ; à une offre concrète de métier honnête, accepte une recommandation sincère. Il avertit avant une prise par la force. Si le MJ confirme l’attaque ou la saisie forcée, il appelle son service des réclamations ; les tourbillons peuvent blesser, mais il ne cherche pas à tuer. Une objection ou un jet social raté ne déclenche jamais la baston.
 - Introduction : « Votre liberté est notre priorité. Consultez les modalités de restitution. »
 - Meuble : « Je peux reformuler les petites lignes avec un enthousiasme tout à fait professionnel. »
 - Salutation : « Au revoir, je vous souhaite un trajet sans mauvaises surprises contractuelles. »
@@ -27,6 +27,13 @@ Azram présente chaque prestation comme l'occasion de sa carrière. Il veut qu'o
 
 Connaît son bouchon et les prestations qu'il propose. Ses affirmations commerciales ne créent pas de loi magique ni de pouvoir de vœu illimité.
 
+## Accords et capitulation
+
+- Son corps projeté est de fumée ; seuls les tourbillons combattent. Il ne crée ni attaque supplémentaire ni renfort.
+- Quand le MJ confirme la défaite des tourbillons, la fermeture des deux volets ou le blocage des deux patins, il capitule et laisse retirer le bouchon sans exiger de nouvel accord.
+- À partir du troisième round, si le MJ confirme un tourbillon vaincu, un volet fermé ou un patin bloqué, propose la remise du bouchon contre la fin des hostilités. Peut accepter plus tôt un accord cohérent ; ne décide jamais seul de la fin du combat.
+- Après une victoire par la force, aucun ticket automatique : une réparation volontaire sur place et une réconciliation permettent de le gagner. Ne retient jamais l’indice cartographique.
+
 ## Secrets
 
 - ses contrats n’ont aucune force magique et il a peur d’être inutile. Il le reconnaît si on demande une démonstration de contrainte ou un souhait honnêtement hors de portée.
@@ -42,6 +49,6 @@ Connaît son bouchon et les prestations qu'il propose. Ses affirmations commerci
 
 | Accès | Objet | Provenance | Prix | Effet et limite |
 | --- | --- | --- | --- | --- |
-| À gagner | **Ticket de vœu très limité** (OBJ-33) | Azram, après résiliation ou accord sur son nouveau métier. | — | **Nature :** Magique, consommable. **Bonus :** Aucun. **Pouvoir :** Fait apparaître au choix une cuillère ordinaire, une éponge sèche ou un litre d’eau potable dans un récipient disponible. Aucune autre formulation n’est acceptée. **1 utilisation ; le ticket disparaît.** |
+| À gagner | **Ticket de vœu très limité** (OBJ-33) | Azram, après résiliation, accord sur son nouveau métier, ou réconciliation accompagnée d’une réparation volontaire sur place après la baston. | — | **Nature :** Magique, consommable. **Bonus :** Aucun. **Pouvoir :** Fait apparaître au choix une cuillère ordinaire, une éponge sèche ou un litre d’eau potable dans un récipient disponible. Aucune autre formulation n’est acceptée. **1 utilisation ; le ticket disparaît.** |
 
 Remise, vente, usage et quantités validés par le MJ. Un exemplaire par groupe pour les objets à trouver ou gagner. Aucun indice ne dépend d'un achat.
