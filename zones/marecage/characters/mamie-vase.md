@@ -7,9 +7,9 @@
 
 ## Identité et relations
 
-Sorcière herboriste humaine.
-Mamie Vase habite dans la tour de guets en ruine.
-Mamie Vase connaît les meilleurs appats pour poissons.
+- Sorcière herboriste humaine.
+- Mamie Vase habite dans la tour de guets en ruine.
+- Mamie Vase connaît les meilleurs appats pour poissons.
 
 ## Objectif et limites
 
@@ -28,4 +28,4 @@ Mamie Vase connaît les meilleurs appats pour poissons.
 ## Façon de parler
 
 - Voix rocailleuse, chaleureuse, débit vif.
-- une plaisanterie puis la marche à suivre.
+- Une plaisanterie puis la marche à suivre.

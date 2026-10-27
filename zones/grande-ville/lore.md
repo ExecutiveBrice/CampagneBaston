@@ -1,11 +1,28 @@
-# Grande ville : retrait refusé, troll énervé
+# Grande ville : Troll énervé
 
-**Destination :** Valombre.
+## Lieux connus
 
-**Lieux visibles :** Entrée, guichet et consigne 12. Les autres salles restent du décor.
+- L'entrée de la banque
+- Le guichet d'accueil
+- Les toilettes
+- Le sas de sécurité
+- La salle des gardes
+- La chambre forte
+- Le bureau du directeur
 
-**À l’arrivée :** Un troll bouche la porte de la banque. « Grum veut caillou. Banque veut frais. Grum veut pas casser banque… tout de suite. »
+## Organisation
 
-Ces éléments décrivent l’arrivée, pas un état permanent. Les mises à jour du MJ remplacent cet état. Les êtres parlants et les enchantements font partie du merveilleux local.
+- Pincefond est le directeur de la banque.
+- Berta est guichetière de la banque.
+- Zib est coursière de la banque.
+- Grum est un client de la banque.
+- Les armures ensorcellées gardent la banque.
 
-Évoque seulement ce que ton personnage peut observer ou sait par sa fiche. Ce contexte ne donne ni les secrets des autres PNJ ni la solution de la scène. Réponds avec tes seules paroles, sans raconter le décor ou tes actions.
+## Situation connue de tous
+
+- Grum bloque la porte car il veut récupérer son caillou.
+- Pincefond demande des frais bancaire pour la restitution du caillou.
+
+## Limites des informations disponibles
+
+- Tout le monde se connait dans la banque.
