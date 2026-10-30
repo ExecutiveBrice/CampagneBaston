@@ -1,24 +1,25 @@
-# Montagne : atchoum, vous êtes cuits
+# Montagne : La mine presque abandonnée
 
 ## Lieux connus
 
-- Le Col
-- L'abris rocheux
-- La grotte
-- Le replat
+- L'entrée de la mine.
+- Les sources chaudes.
+- La voie ferrée.
+- L'antre du dragon.
 
 ## Organisation
 
-- Barnabé est le maire du village
-- Cocoric coq armé
-- Gertrude cheffe des poules
-- Huguette aubergiste
+- Frida est la gardienne de la mine.
+- Biquette est une Gnome pêcheuse dans la mine.
+- Pipo est un humain marchand à l'entrée de la mine.
 
 ## Situation connue de tous
 
-- Un éternuement brûlant carbonise un sandwich.
-- Brûlot campe au milieu du passage avec un gros rhume.
+- Frida garde l'entrée de la mine.
+- Frida propose des visites guidée.
 
 ## Limites des informations disponibles
 
-- Tout le monde se connait au village.
+- Frida connait Pipo.
+- Pipo connait Frida.
+- Biquette connait Frida et Pipo.

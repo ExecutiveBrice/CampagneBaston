@@ -1,11 +1,26 @@
-# Désert : l’oasis qui prend la fuite
+# Désert : Le Génie sans lampe
 
-**Destination :** L’Anauroch.
+## Lieux connus
 
-**Lieux visibles :** Dunes, vraie mare, tente, chariot et lampe de commande.
+- Les Dunes
+- Une Oasis
+- Un repère de Gnolls
 
-**À l’arrivée :** Une oasis glisse sur le sable. Un génie poursuit sa réclame en courant : « Eau fraîche ! Arrêt prochain ! Enfin, je l’espère ! »
+## Organisation
 
-Ces éléments décrivent l’arrivée, pas un état permanent. Les mises à jour du MJ remplacent cet état. Les êtres parlants et les enchantements font partie du merveilleux local.
+- Azram est le génie associé à Hakim.
+- Flocon est le Djin protecteur de l'oasis.
+- Hakim est un bon vendeur de parasols.
+- Saïda est une meneuse de caravane.
 
-Évoque seulement ce que ton personnage peut observer ou sait par sa fiche. Ce contexte ne donne ni les secrets des autres PNJ ni la solution de la scène. Réponds avec tes seules paroles, sans raconter le décor ou tes actions.
+## Situation connue de tous
+
+- Un éternuement brûlant carbonise un sandwich.
+- Brûlot campe au milieu du passage avec un gros rhume.
+
+## Limites des informations disponibles
+
+- Azram connait Hakim et Flocon.
+- Flocon connait Azram, Hakim et Saïda
+- Hakim connait Azram et Flocon.
+- Saïda connait Flocon, Azram et Hakim.

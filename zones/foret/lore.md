@@ -1,11 +1,28 @@
 # Forêt : le chêne a les glands
 
-**Destination :** Cormanthor.
+## Lieux connus
 
-**Lieux visibles :** Sentier, chêne, corde à clochette et fossé latéral.
+- Le sentier
+- Le grand chêne
+- La clairière
+- L'arbre creu
 
-**À l’arrivée :** Une branche barre le chemin. Un homme aux oreilles pointues réclame un péage pendant qu’un écureuil tente de saisir une botte.
+## Organisation
 
-Ces éléments décrivent l’arrivée, pas un état permanent. Les mises à jour du MJ remplacent cet état. Les êtres parlants et les enchantements font partie du merveilleux local.
+- Feuillu est le vénérable grand chène.
+- Myrtille est une driade qui protège la forest.
+- Noisette est le cheffe des animaux révolté.
+- Sylvandre est le faux elfe qui a recruté les animaux pour bloquer le passage.
 
-Évoque seulement ce que ton personnage peut observer ou sait par sa fiche. Ce contexte ne donne ni les secrets des autres PNJ ni la solution de la scène. Réponds avec tes seules paroles, sans raconter le décor ou tes actions.
+## Situation connue de tous
+
+- Noisette et sa bande de petits animaux bloquent le sentier au niveau de la clairière et demande un péage.
+- Feuillu voudrait retrouver le calme de sa foret.
+- Myrtille essai de calmé Feuillu.
+
+## Limites des informations disponibles
+
+- Feuillu connait Myrtille et Noisette.
+- Myrtille connait Feuillu et Noisette.
+- Noisette connait Feuillu, Myrtille et Sylvandre
+- Sylvandre connait Noisette et Feuillu.

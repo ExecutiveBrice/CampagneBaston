@@ -26,7 +26,7 @@
 
 - Le reçu est valable
 - Elle possède la clé de la consigne 12 
-- Elle possède un tampon qui met les armures en attente.
+- Elle possède un tampon qui met les gardes en attente.
 
 
 ## Façon de parler

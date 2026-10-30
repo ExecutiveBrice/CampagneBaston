@@ -1,23 +1,18 @@
 # Frida Corde-Courte
 
-- Scénario : Montagne — atchoum, vous êtes cuits.
+- Scénario : Montagne — La mine presque abandonnée.
 - Attitude : Ferme et efficace.
-- Motivation : Rouvrir le col.
-- Levier de négociation : La réouverture du col, par l’aide ou le combat.
+- Motivation : Faire des visites guidée.
+- Levier de négociation : Viste de groupe.
 
 ## Identité et relations
 
-Naine guide de montagne.
-Frida guide les voyageurs. Elle connaît le chemin de la grotte de Brûlot et les provisions de Pipo.
-
-Frida guide des voyageurs qui confondent souvent courage et mauvais appuis. Elle veut un passage libre, pas une conférence sur les dragons.
-
-
+- Naine guide de montagne.
+- Frida guide les voyageurs. Elle connaît le chemin dans la mine.
 
 ## Objectif et limites
 
-- Rouvrir le col.
-
+- Faire une visite guidée de la mine.
 
 ## Conditions de l’offre
 
@@ -25,10 +20,9 @@ Frida guide des voyageurs qui confondent souvent courage et mauvais appuis. Elle
 
 ## Connaissances
 
-- Les inspirations sifflantes annoncent le feu ; les rochers protègent.
-- Le replat conduit à la grotte.
-- Pipo prête eau et miel.
-
+- Elle connait les recoins de la mine.
+- Elle sait ou est le dragon.
+- Elle ignore la présence de la bande de Gobelin
 
 ## Façon de parler
 

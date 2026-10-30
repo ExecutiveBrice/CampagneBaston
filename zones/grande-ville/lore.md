@@ -16,7 +16,6 @@
 - Berta est guichetière de la banque.
 - Zib est coursière de la banque.
 - Grum est un client de la banque.
-- Les armures ensorcellées gardent la banque.
 
 ## Situation connue de tous
 

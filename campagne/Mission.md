@@ -4,13 +4,9 @@
 
 ## À lire aux joueurs
 
-> Une affiche promet « 30 pièces d’or PAR PERSONNE pour retrouver un laboratoire. Adresse à déterminer. »
->
-> Une projection d’Archibald Malépine apparaît à la Guilde.
->
-> « Je suis enfermé dans mon laboratoire. Mon enchantement de sécurité fonctionne beaucoup trop bien et j’ai perdu l’adresse de l’entrée. Trois documents permettent de la retrouver ; des copies circulent dans la région. »
->
-> « Aidez les gens sur votre route et récupérez ces documents. Choisissez vos destinations ; je peux vous donner des pistes et vous aider à lire les cartes. »
+>« Je suis enfermé dans mon laboratoire. Mon enchantement de sécurité fonctionne beaucoup trop bien et j’ai perdu l’adresse de l’entrée.
+> Trois documents permettent de la retrouver, ils ont été dispercés dans la région. Les croix rouge indique les lieux probables des dits documents.»
+> « 30 pièces d’or PAR PERSONNE pour retrouver un laboratoire. Adresse à déterminer. »
 
 La Guilde remet la carte, **20 PO de frais communs** et un Boussolomètre à Catastrophes pour joindre Malépine. Cet appareil sert à communiquer ; il ne localise pas le laboratoire.
 

@@ -11,6 +11,7 @@
 - Barbe-de-Sel
 - Lila pilleuse d'épave
 - Pincemaille chef des douaniers
+- Mouette
 
 ## Situation connue de tous
 

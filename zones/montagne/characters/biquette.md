@@ -1,28 +1,29 @@
 # Biquette de Fer
 
-- Scénario : Montagne — atchoum, vous êtes cuits.
+- Scénario : Montagne — La mine presque abandonnée.
 - Attitude : Indépendante et impatiente.
-- Motivation : Retrouver son replat.
-- Levier de négociation : Un chemin dégagé vers son replat.
+- Motivation : Pêcher des axolotl.
+- Levier de négociation : Un appat a axolotl.
 
 ## Identité et relations
 
-- Chèvre enchantée.
-- Elle possède un grelot traducteur. 
-- Biquette porte un grelot traducteur depuis longtemps.
-- Elle grimpe vite et trouve les conversations particulièrement lentes.
+- Gnome.
+- Elle possède un grelot traducteur.
+- Elle pêche tranquillement les pieds dans la source chaude.
 
 ## Objectif et limites
 
-- Retrouver son alapge.
+- Pêcher des axolotls pour les manger.
 
 ## Conditions de l’offre
 
-- Montre l'alapge immédiatement.
+- Indique la mare et les axolotls qui barbottent.
 
 ## Connaissances
 
-- L'alapge rejoint la grotte à l’abri du col.
+- Connait toutes les galeries.
+- Sait ou est le document.
+- Est au courant pour la bande de Gobelins.
 
 ## Façon de parler
 

@@ -10,7 +10,7 @@
 
 ## Organisation
 
-- Ogredou esdt un ogre gourmand
+- Ogredou est un ogre gourmand
 - Croa est le chevalier servant de la princesse Glougloute
 - Glougloutte est la princesse du chateau en ruine
 - Mamie-Vase est la sorcière herboriste du marais
